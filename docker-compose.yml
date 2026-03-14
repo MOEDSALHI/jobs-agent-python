@@ -1,0 +1,26 @@
+services:
+  jobs-agent:
+    build: .
+    env_file: .env
+    environment:
+      DB_PATH: /data/jobs.db
+    volumes:
+      - ./data:/data
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: ["CMD","wget","-qO-","http://localhost:8000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  sqlite-web:
+    image: coleifer/sqlite-web
+    command: ["sqlite_web", "/data/jobs.db", "--host", "0.0.0.0", "--port", "8080"]
+    volumes:
+      - ./data:/data
+    ports:
+      - "8080:8080"
+    depends_on:
+      - jobs-agent
