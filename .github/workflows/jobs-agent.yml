@@ -31,8 +31,14 @@ jobs:
       - name: Install Playwright Chromium
         run: poetry run playwright install --with-deps chromium
 
-      - name: Ensure data directory exists
-        run: mkdir -p data
+      - name: Ensure state directory exists
+        run: mkdir -p state
+
+      - name: Ensure state file exists
+        run: |
+          if [ ! -f state/jobs.json ]; then
+            echo '{"jobs":[]}' > state/jobs.json
+          fi
 
       - name: Run batch
         env:
@@ -46,13 +52,13 @@ jobs:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           JOBS_API_KEY: change_me
-          DB_PATH: data/jobs.db
+          STATE_PATH: state/jobs.json
         run: poetry run python -m app.batch
 
-      - name: Commit DB changes
+      - name: Commit state changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add  -f data/jobs.db
-          git diff --cached --quiet || git commit -m "chore(data): update jobs database"
+          git add state/jobs.json
+          git diff --cached --quiet || git commit -m "chore(state): update jobs state"
           git push

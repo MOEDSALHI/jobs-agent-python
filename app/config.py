@@ -2,6 +2,7 @@ from pydantic_settings import BaseSettings
 from typing import List
 import zoneinfo
 
+
 class Settings(BaseSettings):
     TZ: str = "Europe/Paris"
     KEYWORDS: str = "python,fastapi,django,backend"
@@ -15,16 +16,17 @@ class Settings(BaseSettings):
     JOBS_API_KEY: str = "change_me"
     RUN_AT_HOUR: int = 8
     RUN_AT_MINUTE: int = 10
-    DB_PATH: str = "jobs.db"
+    STATE_PATH: str = "state/jobs.json"
     MAIL_USE_TLS: bool = False        # TLS implicite (port 465)
     MAIL_USE_STARTTLS: bool = True    # STARTTLS (port 587)
-    
+
     @property
     def keywords(self) -> List[str]:
         return [k.strip().lower() for k in self.KEYWORDS.split(",") if k.strip()]
 
     class Config:
         env_file = ".env"
+
 
 S = Settings()
 TZINFO = zoneinfo.ZoneInfo(S.TZ)

@@ -5,7 +5,7 @@ import structlog
 
 from .models import Job
 from .scoring import score
-from .store import connect, save_new
+from .store import save_new
 from .notify_email import send_email
 from .notify_telegram import send_tg
 from .config import S
@@ -57,8 +57,10 @@ async def run_once() -> list[Job]:
 
     log.info("filter_stats", raw=len(jobs), kept=len(filtered))
 
-    conn = connect(S.DB_PATH)
-    new = save_new(conn, filtered)
+    # conn = connect(S.DB_PATH)
+    # new = save_new(conn, filtered)
+
+    new = save_new(S.STATE_PATH, filtered)
 
     if new:
         ranked = sorted(new, key=lambda x: -x.score)
