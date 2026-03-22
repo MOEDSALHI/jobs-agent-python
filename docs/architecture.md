@@ -10,7 +10,7 @@ L’application repose sur une idée simple : récupérer des offres d’emploi 
 2. Les offres sont regroupées.
 3. Un filtrage applique vos mots-clés.
 4. Un score priorise les offres.
-5. SQLite garde l’historique.
+5. Un fichier JSON garde l’historique.
 6. Email / Telegram notifient uniquement les nouveautés.
 
 ## Fichiers centraux
@@ -18,7 +18,8 @@ L’application repose sur une idée simple : récupérer des offres d’emploi 
 - `app/runner.py` → moteur principal  
 - `app/batch.py` → exécution batch  
 - `app/main.py` → API FastAPI  
-- `app/store.py` → SQLite  
+- `app/store.py` → gestion du state JSON  
+- `state/jobs.json` → historique des offres  
 - `app/scrapers/` → extraction des offres  
 
 ## Règle importante

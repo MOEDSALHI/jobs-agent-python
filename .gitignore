@@ -1,8 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
-data/
-!data/jobs.db
 .env
 .DS_Store
 *.deb

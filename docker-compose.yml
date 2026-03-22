@@ -15,12 +15,3 @@ services:
       retries: 5
     restart: unless-stopped
 
-  sqlite-web:
-    image: coleifer/sqlite-web
-    command: ["sqlite_web", "/data/jobs.db", "--host", "0.0.0.0", "--port", "8080"]
-    volumes:
-      - ./data:/data
-    ports:
-      - "8080:8080"
-    depends_on:
-      - jobs-agent

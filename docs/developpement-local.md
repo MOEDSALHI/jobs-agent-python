@@ -21,7 +21,7 @@ Cela exécute :
 - scraping
 - filtrage
 - scoring
-- base SQLite
+- sauvegarde JSON
 - email
 
 ### Tester l’API locale

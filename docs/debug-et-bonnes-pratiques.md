@@ -16,10 +16,10 @@ Tester :
 poetry run python -m app.batch
 ```
 
-## Vérifier la base SQLite
+## Vérifier la state json
 
 ```bash
-sqlite3 data/jobs.db
+cat state/jobs.json
 ```
 
 ## Bon réflexe
