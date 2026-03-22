@@ -3,8 +3,13 @@ name: jobs-agent
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 10 * * *"
+    - cron: "30 9 * * *"
+    - cron: "00 12 * * *"
     - cron: "00 16 * * *"
+
+concurrency:
+  group: jobs-agent
+  cancel-in-progress: true
 
 jobs:
   run:

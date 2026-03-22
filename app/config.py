@@ -17,6 +17,7 @@ class Settings(BaseSettings):
     RUN_AT_HOUR: int = 8
     RUN_AT_MINUTE: int = 10
     STATE_PATH: str = "state/jobs.json"
+    MAX_STORED_JOBS: int = 1000
     MAIL_USE_TLS: bool = False        # TLS implicite (port 465)
     MAIL_USE_STARTTLS: bool = True    # STARTTLS (port 587)
 

@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import Iterable, List
 from datetime import datetime, timezone
 
+from .config import S
 from .models import Job
 
 
@@ -29,16 +30,17 @@ def load_jobs(state_path: str) -> list[dict]:
         return []
 
 
-def save_jobs(state_path: str, jobs: list[dict]) -> None:
+def save_jobs(state_path: str, jobs: list[dict], max_jobs: int = 1000) -> None:
     path = Path(state_path)
     path.parent.mkdir(parents=True, exist_ok=True)
 
-    payload = {"jobs": jobs}
+    trimmed_jobs = jobs[-max_jobs:]
+
+    payload = {"jobs": trimmed_jobs}
     path.write_text(
         json.dumps(payload, indent=2, ensure_ascii=False),
         encoding="utf-8",
     )
-
 
 def save_new(state_path: str, jobs: Iterable[Job]) -> list[Job]:
     existing_jobs = load_jobs(state_path)
@@ -68,5 +70,5 @@ def save_new(state_path: str, jobs: Iterable[Job]) -> list[Job]:
         existing_hashes.add(url_hash)
         new.append(job)
 
-    save_jobs(state_path, existing_jobs)
+    save_jobs(state_path, existing_jobs, max_jobs=S.MAX_STORED_JOBS)
     return new
