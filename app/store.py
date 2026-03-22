@@ -42,7 +42,7 @@ def save_jobs(state_path: str, jobs: list[dict], max_jobs: int = 1000) -> None:
         encoding="utf-8",
     )
 
-def save_new(state_path: str, jobs: Iterable[Job]) -> list[Job]:
+def save_new(state_path: str, jobs: Iterable[Job], max_jobs: int = 1000) -> list[Job]:
     existing_jobs = load_jobs(state_path)
     existing_hashes = {job["url_hash"] for job in existing_jobs}
 
@@ -70,5 +70,5 @@ def save_new(state_path: str, jobs: Iterable[Job]) -> list[Job]:
         existing_hashes.add(url_hash)
         new.append(job)
 
-    save_jobs(state_path, existing_jobs, max_jobs=S.MAX_STORED_JOBS)
+    save_jobs(state_path, existing_jobs, max_jobs)
     return new
