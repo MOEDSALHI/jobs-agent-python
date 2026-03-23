@@ -120,6 +120,50 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-03-22T01:46:38.012183+00:00"
+    },
+    {
+      "url_hash": "60f9456fa7de024089c571a85ec66a7997378377",
+      "title": "ExternaticDéveloppeur Backend Python / Django @Industrie 4.0 F/HL'entreprise accompagnée dans son recrutement CDI     Structure innovante spécialisée dans la conception et le déploiement de solutions d’intelligence artificielle et d’analyse de données industrielles .  Son objectif : aider les acteurs de l’industrie à mieux exploiter leurs... A partir de 53 k€ brut annuel  CDI  Paris 08 - 75  23/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178392688W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 3.0,
+      "created_at": "2026-03-23T09:49:26.498750+00:00"
+    },
+    {
+      "url_hash": "4319e3f9b38fb23d116c8dcc283bf6c4376b816b",
+      "title": "HelloworkDéveloppeur Python - Réseau Snmp - Mib - Oid F/HAu sein du Centre de Service Supervision, chargé de la mise en oeuvre des moyens de supervision du Groupe.   La mission consiste à développer, en s'intégrant dans un existant, l'outil interne de supervision réseau, et développé en Python et basé sur du Grafana, Prometheus,... A négocier  CDI  Châtillon - 92  23/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178389423W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=1&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-03-23T09:49:26.498766+00:00"
+    },
+    {
+      "url_hash": "3ae9f751675964544b5971e7a4b6d6cf87029e18",
+      "title": "NATAN CONSULTINGIngénieur Développeur .NET Backend F/HContexte de la mission  Dans le cadre de la refonte technique d'une application monolithe critique qui doit migrer vers des microservices, nous renforçons notre équipe avec un développeur .NET senior expérimenté.  L'équipe en place est composée de 6 développeurs dont 4 .NET... 45 - 55 k€ brut annuel  CDI  Paris 02 - 75  22/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178320976W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=2&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-03-23T09:49:26.498772+00:00"
+    },
+    {
+      "url_hash": "1645fbcdba920fbd423f2d272d3210ce24baf037",
+      "title": "Engagement JeunesDéveloppeur Framework Tests F/HENVIRONNEMENT DE TRAVAIL :    SUJET : MISE EN PLACE D’UN SOCLE DE TESTS UNITAIRES POUR UN PROJET PYTHON    DESCRIPTION DU POSTE :    Au sein de l'équipe SYPEL, avec pour objectif l’amélioration de la qualité logicielle du projet, vous aurez pour mission de concevoir et... A négocier  CDD et Alternance - Contrat d'apprentissage  Courbevoie - 92  23/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178391141W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=4&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-03-23T09:49:26.498777+00:00"
     }
   ]
 }
