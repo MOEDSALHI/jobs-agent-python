@@ -197,6 +197,72 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-03-23T16:23:49.345502+00:00"
+    },
+    {
+      "url_hash": "39f7b79a3389f8c3dfb050ace0d9aa0b50a0e4bb",
+      "title": "PROBAYESIngénieur Développeur Logiciel Python (Paris) F/HProbayes a pour vocation de proposer à ses clients les solutions d’Intelligence Artificielle et de Machine Learning les plus performantes possibles.  Notre stack s’appuie ainsi sur Python, des SGBD SQL/NoSQL, des messages brokers, Docker, Kubernetes. Cela permet de proposer... A négocier  CDI  Paris 15 - 75  23/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178081191W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-03-24T09:47:50.148392+00:00"
+    },
+    {
+      "url_hash": "25640d8934c66580a7593e3fa5c17408ddc901a0",
+      "title": "Engagement JeunesDéveloppeur Framework Tests F/HENVIRONNEMENT DE TRAVAIL :    SUJET : MISE EN PLACE D’UN SOCLE DE TESTS UNITAIRES POUR UN PROJET PYTHON    DESCRIPTION DU POSTE :    Au sein de l'équipe SYPEL, avec pour objectif l’amélioration de la qualité logicielle du projet, vous aurez pour mission de concevoir et... A négocier  CDD et Alternance - Contrat d'apprentissage  Courbevoie - 92  23/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178391141W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=10&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-03-24T09:47:50.148409+00:00"
+    },
+    {
+      "url_hash": "8593caafe41c2b05170245008ae00c417f63b72d",
+      "title": "Développeur Python Senior H/F\n        Olcani",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/74864937.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-03-24T09:47:50.148431+00:00"
+    },
+    {
+      "url_hash": "5e7596e3d3c63c563244b5b268d14f5ccbfa5df9",
+      "title": "Développeur Java Kafka - Python H/F\n        Acensi",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/74875533.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-03-24T09:47:50.148435+00:00"
+    },
+    {
+      "url_hash": "b781939f82852450f3b536cbd2c8ca4b01bfb575",
+      "title": "Developpeur Python Senior en Banque Finance Assurance H/F\n        Mobile Tech People",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/76034270.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-03-24T09:47:50.148439+00:00"
+    },
+    {
+      "url_hash": "9a47a8119a70a18ea739b666434e108025ca55d2",
+      "title": "Développeur Back End Python- Secteur de la Télécommunication - Idf Paris Développeur Back-End Python - Innovateur Télécom - Paris H/F\n        Easy Partner",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/66284403.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-03-24T09:47:50.148444+00:00"
     }
   ]
 }
