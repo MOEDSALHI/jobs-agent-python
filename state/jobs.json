@@ -351,6 +351,72 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-03-24T16:26:34.454474+00:00"
+    },
+    {
+      "url_hash": "7fb17b871c146092f430dd39f02e432070e29c03",
+      "title": "QILEANCommando Python Finance de marché F/HVos missions :   Développement et optimisation d’outils Python liés aux activités de trading / pricing / data .  Intervention rapide sur des problématiques techniques critiques .  Collaboration étroite avec les équipes métiers (trading, quant, risk) .  Participation à... 40 - 50 k€ brut annuel  CDI  Levallois-Perret - 92  24/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178401273W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-03-25T09:47:23.455458+00:00"
+    },
+    {
+      "url_hash": "dd72ffb93f89b1b351ca73109862671a58329140",
+      "title": "NATAN CONSULTINGIngénieur Développeur .NET Backend F/HContexte de la mission  Dans le cadre de la refonte technique d'une application monolithe critique qui doit migrer vers des microservices, nous renforçons notre équipe avec un développeur .NET senior expérimenté.  L'équipe en place est composée de 6 développeurs dont 4 .NET... 45 - 55 k€ brut annuel  CDI  Paris 02 - 75  24/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178320976W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=1&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-03-25T09:47:23.455472+00:00"
+    },
+    {
+      "url_hash": "5a07cd197cca65ced9921bcb9c418a4b967ef9fe",
+      "title": "Senior Python Backend Engineer Virtual Agent Ai Team Remote Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/diabolocom/jobs/senior-python-backend-engineer-virtual-agent-ai-team-remote_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 3.0,
+      "created_at": "2026-03-25T09:47:23.455477+00:00"
+    },
+    {
+      "url_hash": "9d3612935f61cce1ccf10fb62f3dfdaa4fc47d5f",
+      "title": "Senior Python Engineer Ai Integration All Genders Issy Les Moulineaux Ds Keyzpaj",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/dailymotion/jobs/senior-python-engineer-ai-integration-all-genders_issy-les-moulineaux_DS_KeyzPAJ",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-03-25T09:47:23.455482+00:00"
+    },
+    {
+      "url_hash": "e9209b43021141fbf0c85a7c5a988459b0edb062",
+      "title": "Senior Python Developer Creator Platform All Genders Issy Les Moulineaux",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/dailymotion/jobs/senior-python-developer-creator-platform-all-genders_issy-les-moulineaux",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-03-25T09:47:23.455486+00:00"
+    },
+    {
+      "url_hash": "ebf6def17b3ca9126201b6ff35d7a594f2b5a056",
+      "title": "Senior Python Developer - Code Migration Specialist H/F\n        Mindrift",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/77222449.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-03-25T09:47:23.455496+00:00"
     }
   ]
 }
