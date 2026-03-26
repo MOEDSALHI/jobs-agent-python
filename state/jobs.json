@@ -450,6 +450,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-03-26T09:48:44.436277+00:00"
+    },
+    {
+      "url_hash": "4c07a13db3a6c6db99608e637dd6e63b75951b36",
+      "title": "Senior Backend Developer Cdi Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/tarmac-technologies/jobs/senior-backend-developer-cdi_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-03-26T12:19:47.500532+00:00"
+    },
+    {
+      "url_hash": "d98a27d01251c67bd8fe58900fb5f21f9329e6d0",
+      "title": "Senior Backend Developer",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/pony1/jobs/senior-backend-developer",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-03-26T12:19:47.500546+00:00"
     }
   ]
 }
