@@ -626,6 +626,28 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-03-30T09:58:17.910519+00:00"
+    },
+    {
+      "url_hash": "27ed1472e79a5925b0595a0496c91092f58d1877",
+      "title": "Developpeur Fullstack Junior Python Sql Serverless Aws Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/deepreach/jobs/developpeur-fullstack-junior-python-sql-serverless-aws_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-03-30T16:25:05.257937+00:00"
+    },
+    {
+      "url_hash": "105e573ade0cdb1f9f36a7393012f965a379456c",
+      "title": "Senior Python Systems Developer - Functional Testing Project H/F\n        Mindrift",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/77412125.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-03-30T16:25:05.257962+00:00"
     }
   ]
 }
