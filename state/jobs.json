@@ -549,6 +549,83 @@
       "source": "apec",
       "score": 2.0,
       "created_at": "2026-03-29T16:10:36.834637+00:00"
+    },
+    {
+      "url_hash": "78a0cdd311accafc72af2b13be14082371570f64",
+      "title": "INVIVOODéveloppeur Python Sénior F/HJe recherche un.e développeur Python sénior pour travailler sur un projet de refonte au sein d'une grande banque parisienne. Le projet consiste à refondre une application de modélisation et de gestion de fonds de titrisation.  Il faudra sur ce projet faire prauve d'Autonomie, de... 55 - 65 k€ brut annuel  CDI  Pantin - 93  30/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178432296W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-03-30T09:58:17.910414+00:00"
+    },
+    {
+      "url_hash": "c35bf9f6354166b03f8dba7a5640641a7e884d4d",
+      "title": "OPUSDéveloppeur Django | FULL REMOTE F/HRejoins cette startup spécialisée en cybersécurité qui est née d’un constat simple : même les dispositifs de sécurité les plus complets ne suffisent pas toujours à arrêter les cyberattaques.  Leur mindset: adopter une approche différente, à la fois proactive, intelligente et... 50 - 55 k€ brut annuel  CDI  Paris 01 - 75  30/03/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178431409W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=2&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-03-30T09:58:17.910429+00:00"
+    },
+    {
+      "url_hash": "92425f44deaf38d3cb42f98cb035bd081533ab0d",
+      "title": "Ingenieur Full Stack Backend Cloud React Golang Formation Possible Medtech Cdi Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/bureaudestalents/jobs/ingenieur-full-stack-backend-cloud-react-golang-formation-possible-medtech-cdi_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-03-30T09:58:17.910444+00:00"
+    },
+    {
+      "url_hash": "d5561d94f95d6ceff94c0c58628dd8c03b7ea092",
+      "title": "Developpeur Fullstack Senior Python Sql Serverless Aws Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/deepreach/jobs/developpeur-fullstack-senior-python-sql-serverless-aws_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-03-30T09:58:17.910449+00:00"
+    },
+    {
+      "url_hash": "9e9a4f8ad4c826ca82c04cde41eb403c86f23c03",
+      "title": "Lead Back End Python F H X Pantin",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/havas-sa/jobs/lead-back-end-python-f-h-x_pantin",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-03-30T09:58:17.910497+00:00"
+    },
+    {
+      "url_hash": "3a65423c74e3e653268a21ea4ea740658ecac793",
+      "title": "Développeur Full Stack Python Fastapi Senior - All Genders H/F\n        Achil",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/76272113.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 3.0,
+      "created_at": "2026-03-30T09:58:17.910515+00:00"
+    },
+    {
+      "url_hash": "b5270c9a706de81e1dc88d74398675d0b1b9f492",
+      "title": "Développeur·se Backend Python - Insurtech Innovante - Paris H/F\n        Easy Partner",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/70969212.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-03-30T09:58:17.910519+00:00"
     }
   ]
 }
