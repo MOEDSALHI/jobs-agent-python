@@ -692,6 +692,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-03-31T09:50:41.415264+00:00"
+    },
+    {
+      "url_hash": "f9f617f61e791600ffd05524dce69be55bf28f8b",
+      "title": "Backend Developer Python Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/octopus-energy/jobs/backend-developer-python_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-03-31T16:26:40.058991+00:00"
+    },
+    {
+      "url_hash": "d291530403e064308483ca8d10594573b9737d87",
+      "title": "Backend Developper Python H F Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/octopus-energy/jobs/backend-developper-python-h-f_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-03-31T16:26:40.059002+00:00"
+    },
+    {
+      "url_hash": "f1f35e97ce032f1f607d90580995447dd0b01e78",
+      "title": "Développeur Fullstack Python Angular X2 H/F\n        Klanik",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/77460046.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-03-31T16:26:40.059013+00:00"
     }
   ]
 }
