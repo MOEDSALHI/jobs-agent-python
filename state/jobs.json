@@ -725,6 +725,72 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-03-31T16:26:40.059013+00:00"
+    },
+    {
+      "url_hash": "0bb75505f61fffe74e19a3a22dcf670d83e3ac95",
+      "title": "Développeur API (Python) F/HMissions principales :  Concevoir, développer et maintenir des API robustes et sécurisées.  Développer et maintenir des outils de productions, des interfaces EPP avec les registres, des nouvelles fonctionnalités.  Résoudre des problèmes et anomalies signalés par les utilisateurs... 50 - 55 k€ brut annuel  CDI  Paris 13 - 75  01/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178446469W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-01T09:53:04.675175+00:00"
+    },
+    {
+      "url_hash": "abe10dd8df92e051547a8f1b33740e91cbb35ffe",
+      "title": "Developpeur Backend Python F H Cachan",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/mews-partners/jobs/developpeur-backend-python-f-h_cachan",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-01T09:53:04.675190+00:00"
+    },
+    {
+      "url_hash": "0b3700bd58cdaf1a49e83d729dd014fbf39d6e41",
+      "title": "Tech Lead Python F H Evry",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/safran-aircraft-engines/jobs/tech-lead-python-f-h_evry",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-01T09:53:04.675196+00:00"
+    },
+    {
+      "url_hash": "3e518728a936177dce4e37485c673b57fd63628a",
+      "title": "Senior Backend Engineer Paris Wttj M1O3Rp8",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/wttj/jobs/senior-backend-engineer_paris_WTTJ_M1o3rP8",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-01T09:53:04.675201+00:00"
+    },
+    {
+      "url_hash": "87e597ee2f1ff5f8461dd0425803160f81e2776a",
+      "title": "Développeur Python Django Senior H/F\n        Groupe Alliance",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/75260906.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 3.0,
+      "created_at": "2026-04-01T09:53:04.675212+00:00"
+    },
+    {
+      "url_hash": "1695aa580f469ce7b805a60be64bf10f2ccc0abb",
+      "title": "Ingénieur Software Embarqué - Développeur C - C++ - Python H/F\n        MCA Groupe",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/77490443.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-04-01T09:53:04.675215+00:00"
     }
   ]
 }
