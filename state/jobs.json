@@ -868,6 +868,83 @@
       "source": "wttj",
       "score": 1.0,
       "created_at": "2026-04-01T16:23:12.568772+00:00"
+    },
+    {
+      "url_hash": "0dea450e9534ce0a48f2152663ffff599d85a5d1",
+      "title": "développeurs full stack F/HNous recherchons un(e) développeur(se) Full Stack maîtrisant les pratiques DevOps (CI/CD, Docker, Kubernetes), les environnements Cloud (AWS, Azure ou GCP) ainsi que les langages de programmation et de scripting tels que Python, Bash, Java ou équivalent.  La personne retenue... A négocier  CDI  Asnières-sur-Seine - 92  01/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178448001W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=5&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-02T09:48:33.208544+00:00"
+    },
+    {
+      "url_hash": "b561bcf6b2266f9a9caca55f2af7182fd7952668",
+      "title": "Senior Backend Java Engineer Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/jobglober/jobs/senior-backend-java-engineer_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-02T09:48:33.208555+00:00"
+    },
+    {
+      "url_hash": "06ce672d4cdf0082a1975fbe52c4293bd1b598af",
+      "title": "Developpeur Euse Full Stack Python Angular Services Financiers F H Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/cgi/jobs/developpeur-euse-full-stack-python-angular-services-financiers-f-h_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-02T09:48:33.208560+00:00"
+    },
+    {
+      "url_hash": "e6dc810d09bb5e7501b1ef75a90f2dd0c17552d1",
+      "title": "Confirmed Backend Engineer Blablacar Daily Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/blablacar/jobs/confirmed-backend-engineer-blablacar-daily_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-02T09:48:33.208575+00:00"
+    },
+    {
+      "url_hash": "2e85c5d20d9e7fc850af735cabd94d7745593cc6",
+      "title": "Développeur Django - Python H/F\n        Lùkla",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/76345406.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-04-02T09:48:33.208579+00:00"
+    },
+    {
+      "url_hash": "d2351d8e55f9217494a7bdc608c9bfa622be5fd7",
+      "title": "Python Developer - Paris H/F\n        Approach People Recruitment",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/77519816.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-04-02T09:48:33.208583+00:00"
+    },
+    {
+      "url_hash": "e2837c496eee9e982b73e9012e0d096ff384f8c9",
+      "title": "Développeur Full Stack Python - Angular - Services Financiers H/F\n        CGI",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/77530645.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-04-02T09:48:33.208586+00:00"
     }
   ]
 }
