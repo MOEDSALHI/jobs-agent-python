@@ -1011,6 +1011,50 @@
       "source": "apec",
       "score": 2.0,
       "created_at": "2026-04-02T16:23:39.766504+00:00"
+    },
+    {
+      "url_hash": "6e14c363bcde8a44b78be6425649b1c434f338f4",
+      "title": "Developpeur Python Finance De Marches H F Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/meritis/jobs/developpeur-python-finance-de-marches-h-f_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-03T09:47:53.386045+00:00"
+    },
+    {
+      "url_hash": "fdc489b1dcd54e0668ad712d5d83ca8c34c9953d",
+      "title": "Developpeur Se Python Data Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/advizeo/jobs/developpeur-se-python-data_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-03T09:47:53.386059+00:00"
+    },
+    {
+      "url_hash": "316cc7307fb375644b9590bebd152845f9bb0e8d",
+      "title": "Lead Developpeur Python Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/ai6-technologies/jobs/lead-developpeur-python_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-03T09:47:53.386068+00:00"
+    },
+    {
+      "url_hash": "f1078e918defc70c300cd13299f99a277d2cbe25",
+      "title": "Backend Developer Greentech Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/ignition-program/jobs/backend-developer-greentech_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-03T09:47:53.386075+00:00"
     }
   ]
 }
