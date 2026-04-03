@@ -1066,6 +1066,72 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-04-03T12:13:25.192645+00:00"
+    },
+    {
+      "url_hash": "12605b5b8cec0acb35bf7291dab56e5516fa3c0f",
+      "title": "Développeur Backend Python / Django @Industrie 4.0 F/HL'entreprise accompagnée dans son recrutement CDI     Structure innovante spécialisée dans la conception et le déploiement de solutions d’intelligence artificielle et d’analyse de données industrielles .  Son objectif : aider les acteurs de l’industrie à mieux exploiter leurs... A partir de 53 k€ brut annuel  CDI  Paris 08 - 75  03/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178466040W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=2&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 3.0,
+      "created_at": "2026-04-03T16:14:58.781116+00:00"
+    },
+    {
+      "url_hash": "dc06ee612732da4bfdf2f7aa206ddc8bc9a40576",
+      "title": "Développeur C/C++/Python confirmé – Protocole OPC UA F/HDans le cadre d’un projet d’innovation , nous recrutons un développeur confirmé C/C++/Python afin de contribuer au développement de couches logicielles dédiées à l’interopérabilité des systèmes industriels connectés.  Vous participerez à la conception et au développement de... 55 - 62 k€ brut annuel  CDI  Puteaux - 92  03/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178355792W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=3&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-03T16:14:58.781127+00:00"
+    },
+    {
+      "url_hash": "816198e4bd636cae5327a2de0f61c4f5171f5d72",
+      "title": "Ingénieur Développeur .NET Backend F/HContexte de la mission  Dans le cadre de la refonte technique d'une application monolithe critique qui doit migrer vers des microservices, nous renforçons notre équipe avec un développeur .NET senior expérimenté.  L'équipe en place est composée de 6 développeurs dont 4 .NET... 45 - 55 k€ brut annuel  CDI  Paris 02 - 75  03/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178320976W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=4&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-04-03T16:14:58.781132+00:00"
+    },
+    {
+      "url_hash": "f99dc3d2511a7a5c2d81e4168d8bb7f7aeeb9b92",
+      "title": "Lead Tech Django @IA & Data F/HRejoignez une entreprise innovante spécialisée dans la conception et le déploiement de solutions d’intelligence artificielle et d’analyse de données industrielles .  Son objectif : aider les acteurs de l’industrie à mieux exploiter leurs données pour optimiser leurs opérations,... A partir de 60 k€ brut annuel  CDI  Paris 14 - 75  03/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178466132W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=9&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-04-03T16:14:58.781140+00:00"
+    },
+    {
+      "url_hash": "784f48564fc11787cb1ba67dcff8661509161899",
+      "title": "Developpeur Senior Python Practice Se Margo Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/margo/jobs/developpeur-senior-python-practice-se-margo_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-03T16:14:58.781144+00:00"
+    },
+    {
+      "url_hash": "b2edd53efce5f6c74475f504446fcbd7e6be066d",
+      "title": "Developpeur Se Python Senior F H X Paris El Gqkllkj",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/eleven-labs/jobs/developpeur-se-python-senior-f-h-x_paris_EL_GqKLLKJ",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-03T16:14:58.781150+00:00"
     }
   ]
 }
