@@ -1154,6 +1154,94 @@
       "source": "wttj",
       "score": 1.0,
       "created_at": "2026-04-04T09:45:15.167717+00:00"
+    },
+    {
+      "url_hash": "c63971f7b73fe0c3b5025221aaa83291762addf2",
+      "title": "Senior Backend Engineer Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/pivot/jobs/senior-backend-engineer_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-05T09:45:29.719748+00:00"
+    },
+    {
+      "url_hash": "29fa55e3f181b7e8e0c75daa3ef15a0ee1670936",
+      "title": "Developpeur Python H F Paris Merit Gzmqarz",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/meritis/jobs/developpeur-python-h-f_paris_MERIT_gZMqArZ",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-05T09:45:29.719761+00:00"
+    },
+    {
+      "url_hash": "a3761f76094207ef10613313c9a33ea98ec50a26",
+      "title": "Commando Python Front Office H F Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/meritis/jobs/commando-python-front-office-h-f_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-05T09:45:29.719767+00:00"
+    },
+    {
+      "url_hash": "c1323ea5b16a36dfaf86536759bdd2500126e3ee",
+      "title": "Developpeur Python H F Paris Merit Dgayyom",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/meritis/jobs/developpeur-python-h-f_paris_MERIT_DGAyYOM",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-05T09:45:29.719772+00:00"
+    },
+    {
+      "url_hash": "c43f60dc41e57741310e113a415d349f5e177724",
+      "title": "Developpeur Python En Finance De Marche H F Paris Merit Grgx8W0",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/meritis/jobs/developpeur-python-en-finance-de-marche-h-f_paris_MERIT_GrGx8w0",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-05T09:45:29.719779+00:00"
+    },
+    {
+      "url_hash": "0e0bee45e731339e58ef8101e9b395766d9f2a2f",
+      "title": "Developpeur Python Django Senior H/F\n        Randstad Digital",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/76471306.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 3.0,
+      "created_at": "2026-04-05T09:45:29.719797+00:00"
+    },
+    {
+      "url_hash": "eb9c490b56492e3391487768774dd10bbdde4076",
+      "title": "Full Stack Python Developer H/F\n        Devoteam",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/76491843.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-04-05T09:45:29.719802+00:00"
+    },
+    {
+      "url_hash": "68690a1be3decbd0b73e8318cf570af6bdf0e3b8",
+      "title": "Python DevOps Developer H/F\n        Devoteam",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/76491819.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-04-05T09:45:29.719805+00:00"
     }
   ]
 }
