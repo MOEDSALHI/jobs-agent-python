@@ -1242,6 +1242,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-04-05T09:45:29.719805+00:00"
+    },
+    {
+      "url_hash": "48faa4fe224a0e2788cbabe484f3ca799bd7dfbe",
+      "title": "Développeur Backend & Frontend - CDI - Débutant - Asnières-Sur-Seine F/HVous intégrerez une équipe dynamique en charge de définir et de construire des plateformes d'exposition de services (API Manager / Gateway / Portal). Vos principales activités seront :  Automatiser la chaîne CI/CD avec Jenkins, Ansible, Docker, Kubernetes  Développer des... A partir de 32 k€ brut annuel  CDI  Asnières-sur-Seine - 92  06/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178468831W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=1&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-06T09:53:40.477322+00:00"
+    },
+    {
+      "url_hash": "7ce5022a8bac51e3e3bcb2f324b6834f51ce6107",
+      "title": "Développeur Backend Python Senior H/F\n        Tesim",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/76544176.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 3.0,
+      "created_at": "2026-04-06T09:53:40.477361+00:00"
+    },
+    {
+      "url_hash": "ea1d0a0d189658ba8885238bd61b5223c0991fa3",
+      "title": "Développeur Python Confirmé H/F\n        Extia",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/75363679.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-04-06T09:53:40.477367+00:00"
     }
   ]
 }
