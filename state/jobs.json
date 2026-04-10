@@ -1462,6 +1462,83 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-04-09T16:33:03.160928+00:00"
+    },
+    {
+      "url_hash": "0e6ef37e4908c369e6c135471b303aa5b6054a8c",
+      "title": "Engagement JeunesDéveloppeur Python F/HVOS PRINCIPALES MISSIONS SERONT LES SUIVANTES :    \t* Concevoir et développer des applications en PYTHON et en .NET orientées objet.  \t* Participer à l’architecture et à l’évolution des solutions logicielles.  \t* Exploiter et analyser des données métier complexes.  \t* Développer... A négocier  CDI  Courbevoie - 92  10/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178499345W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-10T09:52:54.756593+00:00"
+    },
+    {
+      "url_hash": "b0db1ac24725caac2dfee26d8b8b7dc3ec4740c1",
+      "title": "Développeur Back-end Python F/HPour notre client, une scale-up tech en pleine croissance sur une solution SaaS à destination des réseaux de points de vente, nous recherchons un(e) :     DEVELOPPEUR BACK-END PYTHON (H/F)   CDI - PARIS (75) - REM A PARTIR DE 70K€     Sous la responsabilité du Head of... A partir de 70 k€ brut annuel  CDI  Paris 09 - 75  10/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178496029W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=2&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-10T09:52:54.756608+00:00"
+    },
+    {
+      "url_hash": "467eac88725bc36b9cec81a68b9e4cfd707ebcff",
+      "title": "Senior Developer Python F/HPour notre client, une scale-up tech en pleine croissance, nous recherchons un(e) :     Senior Développeur Python (H/F)   CDI - PARIS (75) - REM A PARTIR DE 70K€     Sous la responsabilité du Head of Technology, vous serez en charge de piloter des chantiers back-end stratégiques... A partir de 70 k€ brut annuel  CDI  Paris 09 - 75  10/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178496210W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=4&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-04-10T09:52:54.756615+00:00"
+    },
+    {
+      "url_hash": "d085bf2ef66049072fc0f708193dc3a9ceb0eaa6",
+      "title": "Ingénieur Développeur .NET Backend F/HContexte de la mission  Dans le cadre de la refonte technique d'une application monolithe critique qui doit migrer vers des microservices, nous renforçons notre équipe avec un développeur .NET senior expérimenté.  L'équipe en place est composée de 6 développeurs dont 4 .NET... 45 - 55 k€ brut annuel  CDI  Paris 02 - 75  09/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178320976W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=6&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-04-10T09:52:54.756620+00:00"
+    },
+    {
+      "url_hash": "dcb2dac7a615ecbebca8bcf2dabd02d91e9cf1aa",
+      "title": "Senior Python Engineer B2C App Full Remote In France Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/dailymotion/jobs/senior-python-engineer-b2c-app-full-remote-in-france_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-10T09:52:54.756625+00:00"
+    },
+    {
+      "url_hash": "e1d339add80c2b962b64a634880225bc2e2818a4",
+      "title": "Senior Backend Engineer Core Components Full Remote France Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/dailymotion/jobs/senior-backend-engineer-core-components-full-remote-france_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-10T09:52:54.756629+00:00"
+    },
+    {
+      "url_hash": "de22835bb5e2cef605b13ef99e426ff9df4c556d",
+      "title": "Développeur Applicatif Python et Mco H/F\n        ABMI Groupe",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/76657338.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-04-10T09:52:54.756635+00:00"
     }
   ]
 }
