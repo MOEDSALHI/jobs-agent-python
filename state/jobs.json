@@ -2089,6 +2089,61 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-04-16T16:35:57.385607+00:00"
+    },
+    {
+      "url_hash": "5fe3eb3b985a10941fbeea3966b8fb77ee5425ff",
+      "title": "Développeur Django Python F/HContexte   Dans le cadre du développement de ses outils informatiques liés à son activité industrielle, une entreprise internationale spécialisée dans la production de composants mécaniques recherche un ingénieur développeur logiciel.   Vous intégrerez une équipe de... 40 - 45 k€ brut annuel  CDI  Sevran - 93  17/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178532686W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-04-17T09:58:02.177428+00:00"
+    },
+    {
+      "url_hash": "20355a4dff176821883e8194f6fcca34232c57c7",
+      "title": "Développeur(se) Python / React JS F/HNous recherchons un(e) Développeur(se) Python/React JS en CDI, pour notre client basé à Elancourt (78).   Vos missions :  Participer au développement des fonctionnalités des bases de données. .   Contribuer à la partie enregistrement sécurisé et au traitement des données... 38 - 55 k€ brut annuel  CDI  Élancourt - 78  17/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178540706W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=1&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-17T09:58:02.177439+00:00"
+    },
+    {
+      "url_hash": "8a487ce4263c74e03e287e7f213870e0189565a4",
+      "title": "Cabinet EKINOXIngénieur Test et Automatisation Python F/HVous intégrez l'équipe Middleware Software composé de 8 personnes travaillant sur le logiciel cerveau des produits indutriels (pilotage des examens et traitement algorithmique des acquisitions ultrasons).  Missions principales :   - Reprise et évolution de l'infrastructure de... 45 - 55 k€ brut annuel  CDI  Paris 05 - 75  17/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178538106W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=4&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-17T09:58:02.177445+00:00"
+    },
+    {
+      "url_hash": "cca3b345c0f0dddfb57d10bf615a9498ad82ca7d",
+      "title": "Poste interne - Développeur Software F/H1. Développement d'applications et d'interfaces web          Concevoir, développer et maintenir nos applications métiers internes (frontend & backend).    Créer des interfaces utilisateur modernes, ergonomiques et performantes en VueJS / Vuetify.    Implémenter la logique métier... A négocier  CDI  Paris 08 - 75  16/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178536106W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=9&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-17T09:58:02.177448+00:00"
+    },
+    {
+      "url_hash": "bbc1427c87750f2795cf87a053ae798960dce566",
+      "title": "Tech Lead Full Stack Python Vue Js F H Paris",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/chapsvision/jobs/tech-lead-full-stack-python-vue-js-f-h_paris",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-04-17T09:58:02.177451+00:00"
     }
   ]
 }
