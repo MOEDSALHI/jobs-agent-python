@@ -2265,6 +2265,61 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-04-18T09:46:09.758178+00:00"
+    },
+    {
+      "url_hash": "d55d40f7c441b38fffb0c7c8370321664a0ed9c0",
+      "title": "Développeur Senior Python - Ansible F/HPour l'un de nos projets dans le domaine du secteur public, nous recherchons un Développeur expérimenté Python/Ansible - H/F   Contexte: Prendre en charge rapidement des travaux réalisés en Python.   Description: Le Bureau INTEGRATION développe une application qui permet aux... 45 - 50 k€ brut annuel  CDI  Noisy-le-Grand - 93  20/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178549396W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-04-20T10:09:24.814048+00:00"
+    },
+    {
+      "url_hash": "96bd841c8c6aff0bcd5ece420d45e6ddf702fa3c",
+      "title": "Sr Back End Engineer Python Api All Genders Issy Les Moulineaux Ds B0Xpo9W",
+      "company": null,
+      "location": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/dailymotion/jobs/sr-back-end-engineer-python-api-all-genders_issy-les-moulineaux_DS_b0Xpo9W",
+      "posted_at": null,
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-04-20T10:09:24.814067+00:00"
+    },
+    {
+      "url_hash": "79defbf3cbb06a2550883550dd8f41ebed82d9c3",
+      "title": "Développeur Python - Réseau Snmp - Mib - Oid H/F\n        Groupe Créative",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/77067548.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-04-20T10:09:24.814080+00:00"
+    },
+    {
+      "url_hash": "dd1846c13af67a1646263c7208563b485dea1e1b",
+      "title": "Développeur Fullstack Senior Python - React - Cybersécurité H/F\n        Octopus IT",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/65518629.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-04-20T10:09:24.814084+00:00"
+    },
+    {
+      "url_hash": "6f167f9373cbacb883d877f2008968f3ec07617c",
+      "title": "Senior Fullstack Developer - App Typescript & Python - CDI H/F\n        Descartes Underwriting",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/68037161.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-04-20T10:09:24.814088+00:00"
     }
   ]
 }
