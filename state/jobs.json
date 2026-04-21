@@ -2375,6 +2375,50 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-04-20T16:29:44.771685+00:00"
+    },
+    {
+      "url_hash": "7a4a4966b665dafe4b8daca4e234d88a7e4f2dd6",
+      "title": "Développeur Python F/HAu sein d'une équipe composée de 5 ingénieurs informaticiens, vous assumerez tous les aspects   relatifs à la conduite des projets et développements qui vous seront confiés:   - la compréhension et le recueil des besoins des utilisateurs, - la modélisation et le maquettage des... A négocier  CDI  Paris 01 - 75  21/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178558572W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-21T10:01:17.944622+00:00"
+    },
+    {
+      "url_hash": "58b1ef8ccc470be4bcd834edf24396e86fd1cad4",
+      "title": "Développeur Senior Python - Ansible F/HPour l'un de nos projets dans le domaine du secteur public, nous recherchons un Développeur expérimenté Python/Ansible - H/F   Contexte: Prendre en charge rapidement des travaux réalisés en Python.   Description: Le Bureau INTEGRATION développe une application qui permet aux... 45 - 50 k€ brut annuel  CDI  Noisy-le-Grand - 93  20/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178549396W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=1&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-04-21T10:01:17.944637+00:00"
+    },
+    {
+      "url_hash": "1020beb13a2cbef75d62e158d0c6d88b6b34704f",
+      "title": "TerXIngénieur développement Python / C++ F/HIntégré(e) au sein de l'équipe R&D/Logiciel et plus spécifiquement de l'équipe en charge des interfaces utilisateur, vous participez au développement de l'IHM d'un scanner médical.    Votre rôle clé vous amène à concevoir et développer de nouvelles fonctionnalités en C++, tout... 45 - 50 k€ brut annuel  CDI  Levallois-Perret - 92  21/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178560201W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=4&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-21T10:01:17.944643+00:00"
+    },
+    {
+      "url_hash": "29fa96c36b0931736c557ab92598a4477b71f09d",
+      "title": "Lead Développeur Full-Stack F/H- Concevoir, développer et maintenir des applications web performantes, évolutives et sécurisées, avec un fort accent sur les technologies React (frontend) et Django (backend).    Produire un code propre, maintenable et optimisé, en appliquant les meilleures pratiques du... 80 - 90 k€ brut annuel  CDI  Paris 01 - 75  21/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178558996W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=10&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 3.0,
+      "created_at": "2026-04-21T10:01:17.944647+00:00"
     }
   ]
 }
