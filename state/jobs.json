@@ -3145,6 +3145,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-04-27T12:33:23.370545+00:00"
+    },
+    {
+      "url_hash": "73fe28252253bd7c3153bc8bd0eb72b221f2dc0e",
+      "title": "Développeur Python - DevOps Senior F/HAu sein d'un fonds d'investissement international , nous recherchons un(e) Senior Software Engineer pour renforcer une équipe d'ingénierie en charge de systèmes critiques liés aux opérations financières.   En collaboration avec une équipe de 6 ingénieurs , vous serez responsable... A négocier  CDI  Paris 01 - 75  28/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178564930W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=1&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-04-28T10:16:42.083080+00:00"
+    },
+    {
+      "url_hash": "35326a426689527a605881db9bbd5cd0af7c15d8",
+      "title": "Senior Développeur Backend Python Django - Ddd & Architecture Hexagonale F/HL'entreprise accompagnée dans son recrutement CDI    Startup tech de 5 ans, autofinancée, éditrice d'une solution SaaS B2B à destination des architectes et bureaux d'études (projets, budgets, facturation, honoraires, pilotage).  Déjà plus de 800 clients en France et à... 50 - 60 k€ brut annuel  CDI  Paris 01 - 75  28/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178601392W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=3&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 4.0,
+      "created_at": "2026-04-28T10:16:42.083093+00:00"
+    },
+    {
+      "url_hash": "b35d0c287480b4c4c68755cf9c76ad571412f7ac",
+      "title": "Développeur full stack go/python/angular F/HCompétences techniques requises :  Concevoir et mettre en œuvre des fonctionnalités robustes et évolutives sur nos différentes plateformes.  • Piloter les décisions relatives à l'architecture technique et les choix technologiques stratégiques.  • Intégrer et améliorer nos... 40 - 65 k€ brut annuel  CDI  Massy - 91  27/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178594465W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=4&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-04-28T10:16:42.083099+00:00"
     }
   ]
 }
