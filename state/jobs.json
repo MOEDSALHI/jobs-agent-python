@@ -3178,6 +3178,28 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-04-28T10:16:42.083099+00:00"
+    },
+    {
+      "url_hash": "ef50b93e1962abc8e6517819e421cdc5ac016d91",
+      "title": "Senior Développeur Backend Python Django - Ddd & Architecture Hexagonale F/HL'entreprise accompagnée dans son recrutement CDI    Startup tech de 5 ans, autofinancée, éditrice d'une solution SaaS B2B à destination des architectes et bureaux d'études (projets, budgets, facturation, honoraires, pilotage).  Déjà plus de 800 clients en France et à... 50 - 60 k€ brut annuel  CDI  Paris 01 - 75  28/04/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178601392W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 4.0,
+      "created_at": "2026-04-29T10:14:32.549993+00:00"
+    },
+    {
+      "url_hash": "15ffbfcdd553158b39e932af356cc0babfac7887",
+      "title": "Developpeur .Net et Python - Paris la Défense H/F\n        Orsys SAS",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/76285163.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-04-29T10:14:32.550006+00:00"
     }
   ]
 }
