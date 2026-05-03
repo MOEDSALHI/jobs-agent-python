@@ -3332,6 +3332,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-05-01T16:24:07.565970+00:00"
+    },
+    {
+      "url_hash": "7e1cb162e16172adb285a3c0abb364f68b567625",
+      "title": "Senior Python Developer - Code Migration Specialist H/F\n        Mindrift",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/78652707.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-05-03T09:54:30.590427+00:00"
+    },
+    {
+      "url_hash": "435bdfa842bb045a84ab2caba1e423990e5b75ea",
+      "title": "Senior Python Systems Developer - Functional Testing Project H/F\n        Mindrift",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/78652716.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-05-03T09:54:30.590440+00:00"
     }
   ]
 }
