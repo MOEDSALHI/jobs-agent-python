@@ -3596,6 +3596,39 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-05-06T10:16:51.827451+00:00"
+    },
+    {
+      "url_hash": "a542513e67c3800f598bb4c6afffe308ef435f6d",
+      "title": "TerXIngénieur développement Python / C++ F/HIntégré(e) au sein de l'équipe R&D/Logiciel et plus spécifiquement de l'équipe en charge des interfaces utilisateur, vous participez au développement de l'IHM d'un scanner médical.    Votre rôle clé vous amène à concevoir et développer de nouvelles fonctionnalités en C++, tout... 45 - 50 k€ brut annuel  CDI  Levallois-Perret - 92  06/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178659454W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=7&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-06T12:37:31.213868+00:00"
+    },
+    {
+      "url_hash": "00ab3ca0e0506e5d10a7b1bcb1ca7dab0ba35a20",
+      "title": "Engagement JeunesIngénieur développement Python / C++ F/HIntégré(e) au sein de l'équipe R&D/Logiciel et plus spécifiquement de l'équipe en charge des interfaces utilisateur, vous participez au développement de l'IHM d'un scanner médical.    Votre rôle clé vous amène à concevoir et développer de nouvelles fonctionnalités en C++, tout... A négocier  CDI  Levallois-Perret - 92  05/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178647960W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=11&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-06T12:37:31.213880+00:00"
+    },
+    {
+      "url_hash": "7bb6271cce3500c1583cd922ac366847d1a1aab6",
+      "title": "OPUS100% télétravail - Développeur Django - Cybersécurité & impact positif F/HNotre client est une fintech d'une quinzaine de personnes en forte croissance (fondée en 2023) dont les solutions sont utilisées par les clients en termes de cybersécurité. L'entreprise a effectué récemment une levée de fonds de 2,6 millions d'euros afin de pouvoir accélérer le... 50 - 55 k€ brut annuel  CDI  Paris 01 - 75  05/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178649285W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=19&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-06T12:37:31.213885+00:00"
     }
   ]
 }
