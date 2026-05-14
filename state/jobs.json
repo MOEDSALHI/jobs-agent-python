@@ -4091,6 +4091,50 @@
       "source": "apec",
       "score": 3.0,
       "created_at": "2026-05-13T16:50:42.966330+00:00"
+    },
+    {
+      "url_hash": "bf471d6cbef76428c272e385bf2b3966775fd01e",
+      "title": "(Confidentielle)Développeur Python et IA F/HNous recherchons un Développeur Python & IA afin de concevoir et développer des solutions innovantes basées sur l’intelligence artificielle et l’automatisation, vous devrez :  Développer et maintenir des applications en Python.  Concevoir et intégrer des modèles d’intelligence... 45 - 50 k€ brut annuel  CDI  Hauts-de-Seine - 92  13/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178696225W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=1&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-14T10:16:33.781249+00:00"
+    },
+    {
+      "url_hash": "72249d48f5dd304233c6972b27ba2ece3d25af43",
+      "title": "LOGWIRE CONSULTINGDéveloppeur Backend & Frontend - CDI - Débutant - Asnières-Sur-Seine F/HVous intégrerez une équipe dynamique en charge de développer et maintenir des plateformes d'exposition de services (API Manager / Gateway / Portal).    Vos principales missions seront :  Participer au développement de policies et modules en Java, JavaScript, Groovy..  Contribuer... 26 - 30 k€ brut annuel  CDI  Asnières-sur-Seine - 92  13/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178563454W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=3&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-14T10:16:33.781261+00:00"
+    },
+    {
+      "url_hash": "6c68ee0df2236923e8641c23b8d7fa93a09a40ac",
+      "title": "Senior Python Developer - Code Migration Specialist H/F\n        Mindrift",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/79040097.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-05-14T10:16:33.781266+00:00"
+    },
+    {
+      "url_hash": "408dcbf8a4697517d6199277b6d4ea77562c1abd",
+      "title": "Senior Python Systems Developer - Functional Testing Project H/F\n        Mindrift",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/79040090.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-05-14T10:16:33.781270+00:00"
     }
   ]
 }
