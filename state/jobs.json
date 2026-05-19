@@ -4157,6 +4157,28 @@
       "source": "hellowork",
       "score": 3.0,
       "created_at": "2026-05-15T10:17:01.908521+00:00"
+    },
+    {
+      "url_hash": "38d436fdc1e35b15da7122eb3ea16026cb62b118",
+      "title": "AXA FranceSoftware Engineer Fullstack Python/React F/HAfin d'accompagner la transformation digitale de l'entreprise, axée sur l'automatisation et la simplification des processus métiers, vous rejoindrez la Direction de la Performance Opérationnelle en tant que Développeur Fullstack expérimenté, acteur clé de l'innovation métier. ... A négocier  CDI  Nanterre - 92  18/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178714129W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=3&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-19T10:41:34.807104+00:00"
+    },
+    {
+      "url_hash": "64b8daf7bee62367f86ec66f0fcf6b1f134da576",
+      "title": "ANEOSoftware Engineer .NET / Python / LLM — CDI F/HÀ propos d'Aneo  Cabinet de conseil tech-first depuis 2002. On bosse sur les sujets qui demandent vraiment du muscle technique : GenAI, HPC, cloud, software engineering . Partenaires AWS et GCP, créateurs de l'orchestrateur open-source ArmoniK , avec une R&D dense (15+ PhDs) et... 55 - 75 k€ brut annuel  CDI  Boulogne-Billancourt - 92  19/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178721430W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=8&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-19T10:41:34.807119+00:00"
     }
   ]
 }
