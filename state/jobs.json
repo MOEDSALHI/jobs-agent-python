@@ -4245,6 +4245,39 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-05-20T10:35:11.883408+00:00"
+    },
+    {
+      "url_hash": "64d0459ef744cea869b5bc409b5140a176ac5a01",
+      "title": "STEP UPConsultant Devops : Python / Angular / OpenShift Paris F/HDans le cadre du renforcement d'une équipe technique au sein d'un grand compte du secteur bancaire, nous recherchons un profil Développeur / DevOps confirmé disposant d'une solide expérience sur les environnements conteneurisés et les technologies Python.  Localisation  - Nantes... 45 - 50 k€ brut annuel  CDI  Paris 01 - 75  20/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178729738W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=2&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-20T12:51:52.611312+00:00"
+    },
+    {
+      "url_hash": "d852c3f38b5261cb0f2b21044a58aed3871bd9da",
+      "title": "ANEOSoftware Engineer .NET / Python / LLM — CDI F/HÀ propos d'Aneo  Cabinet de conseil tech-first depuis 2002. On bosse sur les sujets qui demandent vraiment du muscle technique : GenAI, HPC, cloud, software engineering . Partenaires AWS et GCP, créateurs de l'orchestrateur open-source ArmoniK , avec une R&D dense (15+ PhDs) et... 55 - 75 k€ brut annuel  CDI  Boulogne-Billancourt - 92  19/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178721430W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=6&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-20T12:51:52.611327+00:00"
+    },
+    {
+      "url_hash": "22432588ed4e5fbfaf14934c6cd2a0aba1d55359",
+      "title": "Caisse Centrale MSADeveloppeur Fullstack - administrateur système F/HLa personne retenue sera intégrée au sein du Département ICAR : Ingénierie Conception Assistance Réseau. Ses principales missions seront les suivantes : Développer et ou maintenir les applications au moyen du Framework SvelteKit, NodeJs, Javascript, TypeScript, Php et Python, . ... 33 - 37 k€ brut annuel  CDD  Bobigny - 93  19/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178721040W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=15&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-20T12:51:52.611332+00:00"
     }
   ]
 }
