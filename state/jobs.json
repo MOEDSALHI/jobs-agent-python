@@ -4223,6 +4223,28 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-05-19T17:05:34.528345+00:00"
+    },
+    {
+      "url_hash": "de4af777f17c5f7d7cb287d223ef1302b57eafcf",
+      "title": "ANEOSoftware Engineer .NET / Python / LLM — CDI F/HÀ propos d'Aneo  Cabinet de conseil tech-first depuis 2002. On bosse sur les sujets qui demandent vraiment du muscle technique : GenAI, HPC, cloud, software engineering . Partenaires AWS et GCP, créateurs de l'orchestrateur open-source ArmoniK , avec une R&D dense (15+ PhDs) et... 55 - 75 k€ brut annuel  CDI  Boulogne-Billancourt - 92  19/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178721430W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=5&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-20T10:35:11.883397+00:00"
+    },
+    {
+      "url_hash": "2bdf66efae762bf2079af552099f96ab9ecf07d2",
+      "title": "Caisse Centrale MSADeveloppeur Fullstack - administrateur système F/HLa personne retenue sera intégrée au sein du Département ICAR : Ingénierie Conception Assistance Réseau. Ses principales missions seront les suivantes : Développer et ou maintenir les applications au moyen du Framework SvelteKit, NodeJs, Javascript, TypeScript, Php et Python, . ... 33 - 37 k€ brut annuel  CDD  Bobigny - 93  19/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178721040W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=14&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-20T10:35:11.883408+00:00"
     }
   ]
 }
