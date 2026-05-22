@@ -4432,6 +4432,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-05-22T10:31:50.296449+00:00"
+    },
+    {
+      "url_hash": "aaac75778ab997a55b1f6fb5f28379dfd872cea6",
+      "title": "DATA1-ITIngénieur DevOps / QA Automatisation – CI/CD / Ansible / Python F/HDans le cadre d’un projet stratégique pour un grand acteur du secteur bancaire, vous interviendrez au sein d’une équipe en charge de la supervision et de l’hypervision des systèmes d’information.  Votre mission s’inscrit dans une démarche d’industrialisation des processus IT,... A négocier  CDI  Paris 01 - 75  22/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178744309W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=3&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-22T16:47:53.967853+00:00"
+    },
+    {
+      "url_hash": "e12afc2eb9303134e58042defcc45c5d5f356494",
+      "title": "ExternaticLead Software Engineer Python @ Scientific Engine - F/HEntreprise internationale du secteur de l’assurance et de la gestion des risques, spécialisée dans la couverture de risques complexes pour des entreprises et institutions à l’échelle mondiale. En forte croissance, elle s’appuie sur une approche combinant expertise scientifique,... A partir de 65 k€ brut annuel  CDI  Paris 17 - 75  21/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178736538W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=4&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-05-22T16:47:53.967864+00:00"
+    },
+    {
+      "url_hash": "ffe4db7bddacde7fd63b7294eddf1fe0109474e8",
+      "title": "HelloworkLead Software Engineer Python Scientific Engine F/HEntreprise internationale du secteur de l'assurance et de la gestion des risques, spécialisée dans la couverture de risques complexes pour des entreprises et institutions à l'échelle mondiale. En forte croissance, elle s'appuie sur une approche combinant expertise scientifique,... 65 - 85 k€ brut annuel  CDI  Paris 17 - 75  22/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178741186W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=7&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-05-22T16:47:53.967869+00:00"
     }
   ]
 }
