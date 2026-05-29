@@ -4575,6 +4575,39 @@
       "source": "hellowork",
       "score": 3.0,
       "created_at": "2026-05-29T10:45:57.670032+00:00"
+    },
+    {
+      "url_hash": "5b98b8ecba1b894e40e7409e06e33777161c643b",
+      "title": "PROBAYESIngénieur Développeur Logiciel Python (Paris) F/HProbayes a pour vocation de proposer à ses clients les solutions d’Intelligence Artificielle et de Machine Learning les plus performantes possibles.  Notre stack s’appuie ainsi sur Python, des SGBD SQL/NoSQL, des messages brokers, Docker, Kubernetes. Cela permet de proposer... A négocier  CDI  Paris 15 - 75  29/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178678863W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=0&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-29T13:04:30.874771+00:00"
+    },
+    {
+      "url_hash": "cc9bcb87923fbe3b96033019b65cc38f2b2d0d9f",
+      "title": "AXASoftware Engineer Fullstack Python/React F/HAfin d'accompagner la transformation digitale de l'entreprise, axée sur l'automatisation et la simplification des processus métiers, vous rejoindrez la Direction de la Performance Opérationnelle en tant que Développeur Fullstack expérimenté, acteur clé de l'innovation métier. ... A négocier  CDI  Nanterre - 92  28/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178773866W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=3&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-05-29T13:04:30.874789+00:00"
+    },
+    {
+      "url_hash": "3e67609e386558040546510451801aad604b67f9",
+      "title": "HelloworkSenior Backend Engineer F/HLe rôle   En tant que Senior Backend Engineer, tu joueras un rôle clé dans la construction de notre plateforme SaaS.   Au-delà du développement, tu seras impliqué(e) dans les choix d'architecture, la structuration du produit et les décisions techniques stratégiques.   Tes... A négocier  CDI  Puteaux - 92  29/05/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178776787W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=10&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-05-29T13:04:30.874797+00:00"
     }
   ]
 }
