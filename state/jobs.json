@@ -5180,6 +5180,50 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-06-11T11:03:42.111322+00:00"
+    },
+    {
+      "url_hash": "706d8a7cacadbcecbb20d1cdeb5728ee3732c5e1",
+      "title": "HelloworkSenior Python Platform Engineer - DevOps F/HLa mission   En tant que membre de l'équipe, vous serez un interlocuteur privilégié concernant les bibliothèques de développement et les bonnes pratiques techniques pour des centaines de docteurs (PhD) et d'ingénieurs logiciels.   Vous mettrez à profit votre forte curiosité... 50 - 60 k€ brut annuel  CDI  Paris 01 - 75  10/06/2026",
+      "company": null,
+      "location": null,
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178848490W?motsCles=d%C3%A9veloppeur%20python&anciennetePublication=101850&typesConvention=143706&typesConvention=143687&typesConvention=143686&typesConvention=143684&typesConvention=143685&lieux=711&salaireMinimum=20&salaireMaximum=200&selectedIndex=5&page=0",
+      "posted_at": null,
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-11T13:17:24.847367+00:00"
+    },
+    {
+      "url_hash": "bd37309d52a94548ceba5a75edf0944be879a94e",
+      "title": "Développeur Python - Appétence DevOps - Télécom - Paris H/F\n        collectivite",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/80071261.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-11T13:17:24.847387+00:00"
+    },
+    {
+      "url_hash": "0f7e9e0a6140093759ae22d6bea2eb12ea952bc9",
+      "title": "Data Engineer - Python Developer - Migration Sas Vers Gcp H/F\n        collectivite",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/80071181.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-11T13:17:24.847399+00:00"
+    },
+    {
+      "url_hash": "039db5f07ae34ed2c90c7879eee6a4abeaaff17f",
+      "title": "Fullstack Python - Fast Api - React.Js - Santé H/F\n        collectivite",
+      "company": null,
+      "location": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/80070712.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-11T13:17:24.847403+00:00"
     }
   ]
 }
