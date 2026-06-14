@@ -2,7 +2,8 @@ from playwright.async_api import async_playwright, Page, TimeoutError as PwTimeo
 from contextlib import asynccontextmanager
 import asyncio
 import structlog
-import re, urllib.parse
+import re
+import urllib.parse
 
 log = structlog.get_logger()
 
@@ -21,7 +22,8 @@ async def browser_page():
         try:
             yield page
         finally:
-            await ctx.close(); await browser.close()
+            await ctx.close()
+            await browser.close()
 
 async def _try_click(page: Page, selector: str) -> bool:
     try:

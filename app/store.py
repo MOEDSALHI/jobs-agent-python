@@ -4,7 +4,6 @@ from pathlib import Path
 from typing import Iterable, List
 from datetime import datetime, timezone
 
-from .config import S
 from .models import Job
 
 

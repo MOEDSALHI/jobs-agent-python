@@ -3,7 +3,7 @@ from __future__ import annotations
 import asyncio
 from collections import defaultdict
 from email.message import EmailMessage
-from typing import List
+from typing import Any, List
 
 import structlog
 from aiosmtplib import SMTP
@@ -94,7 +94,7 @@ async def send_email(jobs: List[Job]) -> None:
         log.info("email_skip_empty")
         return
 
-    enriched_jobs = []
+    enriched_jobs: list[dict[str, Any]] = []
     for job in jobs:
         enriched_jobs.append(
             {
@@ -110,8 +110,8 @@ async def send_email(jobs: List[Job]) -> None:
 
     # Reconstruction en dict par source
     grouped_jobs: dict[str, List[dict]] = defaultdict(list)
-    for job in enriched_jobs:
-        grouped_jobs[job["source"]].append(job)
+    for e in enriched_jobs:
+        grouped_jobs[e["source"]].append(e)
 
     grouped_jobs = dict(sorted(grouped_jobs.items(), key=lambda item: item[0]))
     for source in grouped_jobs:

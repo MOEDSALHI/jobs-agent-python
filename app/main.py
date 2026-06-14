@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Header, HTTPException
-from apscheduler.schedulers.asyncio import AsyncIOScheduler
-from apscheduler.triggers.cron import CronTrigger
+from apscheduler.schedulers.asyncio import AsyncIOScheduler  # type: ignore[import-untyped]
+from apscheduler.triggers.cron import CronTrigger  # type: ignore[import-untyped]
 from prometheus_client import Counter, Gauge, generate_latest, CONTENT_TYPE_LATEST
 from fastapi.responses import Response
 import structlog
@@ -53,6 +53,6 @@ async def test_email(x_api_key: str = Header(..., alias="X-API-Key")):
     if x_api_key != S.JOBS_API_KEY:
         raise HTTPException(status_code=401, detail="unauthorized")
 
-    dummy = Job(title="Test email jobs-agent", url="https://example.com", source="test")
+    dummy = Job(title="Test email jobs-agent", url="https://example.com", source="test")  # type: ignore[arg-type]
     await send_email([dummy])
     return {"status": "sent"}

@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import asyncio
-import sys
 
 from app.logging import setup_logging
 from app.runner import run_once

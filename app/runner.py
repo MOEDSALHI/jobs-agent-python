@@ -21,7 +21,14 @@ def match_keywords(job: Job) -> bool:
 
     from app.scrapers.base import slug_to_title
     slug_t = slug_to_title(str(job.url)).lower()
-    return any(k in slug_t for k in S.keywords)
+    if any(k in slug_t for k in S.keywords):
+        return True
+
+    if job.content:
+        content = job.content.lower()
+        return any(k in content for k in S.keywords)
+
+    return False
 
 
 async def run_once() -> list[Job]:
@@ -36,7 +43,7 @@ async def run_once() -> list[Job]:
 
     jobs: list[Job] = []
     for batch in batches:
-        if isinstance(batch, Exception):
+        if isinstance(batch, BaseException):
             log.warning("scrape_err", err=str(batch))
             continue
         jobs.extend(batch)

@@ -10,3 +10,4 @@ class Job(BaseModel):
     location: Optional[str] = None
     posted_at: Optional[datetime] = None
     score: float = 0.0
+    content: Optional[str] = None

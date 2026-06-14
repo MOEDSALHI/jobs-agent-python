@@ -1,4 +1,4 @@
-from pydantic_settings import BaseSettings
+from pydantic_settings import BaseSettings, SettingsConfigDict
 from typing import List
 import zoneinfo
 
@@ -11,6 +11,8 @@ class Settings(BaseSettings):
     MAIL_SMTP_USER: str
     MAIL_SMTP_PASS: str
     MAIL_TO: str
+    WTTJ_EMAIL: str | None = None
+    WTTJ_PASSWORD: str | None = None
     TG_BOT_TOKEN: str | None = None
     TG_CHAT_ID: str | None = None
     JOBS_API_KEY: str = "change_me"
@@ -25,9 +27,8 @@ class Settings(BaseSettings):
     def keywords(self) -> List[str]:
         return [k.strip().lower() for k in self.KEYWORDS.split(",") if k.strip()]
 
-    class Config:
-        env_file = ".env"
+    model_config = SettingsConfigDict(env_file=".env")
 
 
-S = Settings()
+S = Settings()  # type: ignore[call-arg]
 TZINFO = zoneinfo.ZoneInfo(S.TZ)

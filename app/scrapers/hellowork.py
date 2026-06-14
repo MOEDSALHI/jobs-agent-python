@@ -1,7 +1,8 @@
 from typing import List
 from .base import browser_page, prepare, get_links, is_job_url, slug_to_title
 from ..models import Job
-import structlog, urllib.parse
+import structlog
+import urllib.parse
 log = structlog.get_logger()
 
 URL = ("https://www.hellowork.com/fr-fr/emploi/recherche.html"
@@ -31,6 +32,6 @@ async def scrape() -> List[Job]:
         title = txt if len(txt) > 8 else slug_to_title(href)
         if len(title) < 6:
             continue
-        out.append(Job(title=title, url=href, source="hellowork"))
+        out.append(Job(title=title, url=href, source="hellowork"))  # type: ignore[arg-type]
     log.info("hellowork_jobs", count=len(out))
     return out
