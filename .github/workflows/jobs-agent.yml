@@ -56,6 +56,8 @@ jobs:
           MAIL_TO: ${{ secrets.MAIL_TO }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          WTTJ_EMAIL: ${{ secrets.WTTJ_EMAIL }}
+          WTTJ_PASSWORD: ${{ secrets.WTTJ_PASSWORD }}
           JOBS_API_KEY: change_me
           STATE_PATH: state/jobs.json
         run: poetry run python -m app.batch
