@@ -80,9 +80,11 @@ JOB_PATTERNS = {
     "wttj": re.compile(r"/fr/companies/[^/]+/jobs/[^/]+"),
     # HelloWork: pages d'offre finissant par .html sous /fr-fr/emploi(s)/
     "hellowork": re.compile(r"/fr-fr/emplois?/[^?#]+\.html$"),
-    # APEC: multiple formes d'URL d’offre
+    # APEC: multiple URL forms (detail-offre is the current format)
     "apec": re.compile(
-        r"/(offre-(?:emploi|candidat)|offres?)/[^?#]+|/emploi/fiche-emploi/[^?#]+"
+        r"/emploi/detail-offre/[^?#]+"
+        r"|/(offre-(?:emploi|candidat)|offres?)/[^?#]+"
+        r"|/emploi/fiche-emploi/[^?#]+"
     ),
 }
 
