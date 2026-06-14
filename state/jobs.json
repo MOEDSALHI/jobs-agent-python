@@ -340,6 +340,50 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-06-14T10:57:53.336617+00:00"
+    },
+    {
+      "url_hash": "650e0f656528ed1d3c6714f9e30995097da677b8",
+      "title": "Développeur Python - Défense & Sécurité - Ile-de-France",
+      "company": "Sopra Steria",
+      "location": "Courbevoie · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/sopra-steria/jobs/developpeur-python-defense-securite-ile-de-france_courbevoie",
+      "posted_at": "2026-06-11T22:09:15+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-14T12:39:28.497487+00:00"
+    },
+    {
+      "url_hash": "28796e16bea6e67e2eec543ad7dbfb6905f303f6",
+      "title": "Développeur(se) Python/Devops - Services Financiers - Paris",
+      "company": "Sopra Steria",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/sopra-steria/jobs/developpeur-se-python-devops-services-financiers-paris_paris",
+      "posted_at": "2026-06-11T22:09:05+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-14T12:39:28.497497+00:00"
+    },
+    {
+      "url_hash": "0e2bb6e75275f651bc4022290d61a58fb2b04328",
+      "title": "Développeur/Développeuse Analyste Python - Référentiels Métier F/H",
+      "company": "EDF",
+      "location": "Saint-Denis · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/edf/jobs/developpeur-developpeuse-analyste-python-referentiels-metier-f-h_saint-denis",
+      "posted_at": "2026-06-12T03:01:51+00:00",
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-06-14T12:39:28.497504+00:00"
+    },
+    {
+      "url_hash": "c31db70f4b85f83276fdd84a9f8d07ba8b52bfaa",
+      "title": "Senior Fullstack Developer",
+      "company": "PAYPLUG",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/payplug/jobs/senior-fullstack-developer_paris_PAYPL_pDJNqqJ",
+      "posted_at": "2026-06-11T09:50:41+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-14T12:39:28.497509+00:00"
     }
   ]
 }
