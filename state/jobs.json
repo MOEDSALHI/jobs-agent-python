@@ -1,3 +1,345 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "url_hash": "daa7b94fbfa86bab42075845da0983cc0da5c01d",
+      "title": "Développeur Full Stack Senior - Python & IA F/H",
+      "company": "Talent Brut Recrutement",
+      "location": "Paris 13 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178846369W",
+      "posted_at": "2026-06-13T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-14T10:57:53.336497+00:00"
+    },
+    {
+      "url_hash": "e85c570640a786355149b9321da8f6e26b6914a6",
+      "title": "Développeur Python H/F",
+      "company": "Consort Group",
+      "location": "Paris 17e - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/79974096.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336507+00:00"
+    },
+    {
+      "url_hash": "f8b1e051a88c5d08432e5b5cf78495c05c263719",
+      "title": "Développeur Python H/F",
+      "company": "Meritis",
+      "location": "Paris 8e - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/57647042.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336513+00:00"
+    },
+    {
+      "url_hash": "f9e65a7885c0b1384b657206a6f81d4fa8f93684",
+      "title": "Développeur Python H/F",
+      "company": "Henoris",
+      "location": "Paris - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/79851630.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336517+00:00"
+    },
+    {
+      "url_hash": "bc0e747313fc349fc832a048111e4a284f39bd18",
+      "title": "Développeur Python H/F",
+      "company": "OCSI Group",
+      "location": "Paris - 75 · CDI · Télétravail occasionnel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/79649538.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336521+00:00"
+    },
+    {
+      "url_hash": "34b879bcb39186f452a7d0b4f92c4b65ea46d956",
+      "title": "Développeur Python Senior H/F",
+      "company": "Olcani",
+      "location": "Paris 13e - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80113783.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-14T10:57:53.336525+00:00"
+    },
+    {
+      "url_hash": "32bbbe5513172c6eea8001e9c9e2eb4799eb4229",
+      "title": "Apprentissage - Développeur Python H/F",
+      "company": "Vusion",
+      "location": "Nanterre - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/78673979.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336529+00:00"
+    },
+    {
+      "url_hash": "d7be4cc3dfc4daf93a8b436e0af74a03da0f7e90",
+      "title": "Développeur Python - DevOps - Services Financiers - Paris H/F",
+      "company": "Sopra Steria",
+      "location": "Paris 16e - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80056590.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336532+00:00"
+    },
+    {
+      "url_hash": "7c3dd9df90bf87018478b1439ebaee1238ef5181",
+      "title": "Développeur Python - Défense & Sécurité - Ile-De-France H/F",
+      "company": "Sopra Steria",
+      "location": "Courbevoie - 92 · CDI · Télétravail occasionnel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80056587.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336536+00:00"
+    },
+    {
+      "url_hash": "40ffb6c2fc2abdda94b2cef6af8945221f19acef",
+      "title": "DevOps - Développeur Python Angular H/F",
+      "company": "Step Up",
+      "location": "Paris 9e - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/79415571.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336540+00:00"
+    },
+    {
+      "url_hash": "fb7dfc4646a9259c6b61aca9475fc54e4b9d17b5",
+      "title": "CDI - Développeur - Développeuse Python Senior - Architecte H/F",
+      "company": "Canal Plus",
+      "location": "Issy-les-Moulineaux - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/77366707.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-14T10:57:53.336547+00:00"
+    },
+    {
+      "url_hash": "2430d2015c58017d9c46b0f07110b5a8469b835d",
+      "title": "6830 - Développeur Senior Python - Django - React - Aws H/F",
+      "company": "Step Up",
+      "location": "Paris - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80011036.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 3.0,
+      "created_at": "2026-06-14T10:57:53.336551+00:00"
+    },
+    {
+      "url_hash": "57e764c4f83aa4cfcfacec2724e1a8db44a6e055",
+      "title": "Développeur C# - Python H/F",
+      "company": "Consort Group",
+      "location": "Paris 17e - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/73551169.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336554+00:00"
+    },
+    {
+      "url_hash": "ff852a4211029d64ab7b3012752a0122f4c04b56",
+      "title": "Développeur PHP - Python H/F",
+      "company": "Groupe Empruntis",
+      "location": "Saint-Denis - 93 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/78731627.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336558+00:00"
+    },
+    {
+      "url_hash": "f828e5251e6a3c1c12aff0fd952cb9d93161a34e",
+      "title": "Développeur Django Python H/F",
+      "company": "Abil Informatique",
+      "location": "Sevran - 93 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/78762976.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-14T10:57:53.336562+00:00"
+    },
+    {
+      "url_hash": "6bb76c7d78853dd22ae89f6c663b7b9a73f38fed",
+      "title": "Developer Node.Js - Python H/F",
+      "company": "MyUnisoft",
+      "location": "Montigny-le-Bretonneux - Rambouillet - 78 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/78887473.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336565+00:00"
+    },
+    {
+      "url_hash": "a37b36fd5d9a3de404f35c620a11c114f0e93dca",
+      "title": "Développeur Senior Python - Ansible H/F",
+      "company": "Step Up",
+      "location": "Noisy-le-Grand - 93 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/78125205.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-14T10:57:53.336569+00:00"
+    },
+    {
+      "url_hash": "cbf4ac080f7a372c265f0072fd91ee890489355b",
+      "title": "Développeur Fullstack Python - Javascript H/F",
+      "company": "CGI",
+      "location": "Paris - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/78643932.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336573+00:00"
+    },
+    {
+      "url_hash": "949f7a623d67b7d287e5a0235c032af8cc69cc45",
+      "title": "Développeur - Développeuse Analyste Python - Référentiels Métier H/F",
+      "company": "EDF",
+      "location": "Saint-Denis - 93 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/78636697.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336576+00:00"
+    },
+    {
+      "url_hash": "ac41d5144d2b4a5622c754783a138f84e84348fa",
+      "title": "Developer Fullstack Python - Django & Kotlin H/F",
+      "company": "Weezevent",
+      "location": "Clichy - 92 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/79922397.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-14T10:57:53.336580+00:00"
+    },
+    {
+      "url_hash": "9ce49365290f4a6ff40dbe815386745170914062",
+      "title": "Développeur Full Stack Python - Angular Senior H/F",
+      "company": "Audensiel Technologies",
+      "location": "Île-de-France · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/79623184.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-14T10:57:53.336584+00:00"
+    },
+    {
+      "url_hash": "3433d60054a55d4cc66d6718e5d7ffc848379d7d",
+      "title": "Ingénieur Software Embarqué - Développeur C - C++ - Python H/F",
+      "company": "MCA Groupe",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/77669256.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336587+00:00"
+    },
+    {
+      "url_hash": "15ffbfcdd553158b39e932af356cc0babfac7887",
+      "title": "Developpeur .Net et Python - Paris la Défense H/F",
+      "company": "Orsys SAS",
+      "location": "Puteaux - 92 · CDI · Télétravail occasionnel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/76285163.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336590+00:00"
+    },
+    {
+      "url_hash": "fca832bd42c21abe3239fbe305c112c43098b295",
+      "title": "Senior Backend Engineer Python - Flask H/F",
+      "company": "Team.is",
+      "location": "Paris 7e - 75 · CDI · Télétravail complet",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80095179.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 3.0,
+      "created_at": "2026-06-14T10:57:53.336594+00:00"
+    },
+    {
+      "url_hash": "d6aebb584af4c29b065b72c9ed77240627313a60",
+      "title": "Développeur Python - Ansible H/F",
+      "company": "collectivite",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80059891.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336597+00:00"
+    },
+    {
+      "url_hash": "0bc0b274d545c9fd5cd8755fccb8200af4805903",
+      "title": "Développeur Python Fullstack H/F",
+      "company": "Devoteam",
+      "location": "Levallois-Perret - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/79857370.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336600+00:00"
+    },
+    {
+      "url_hash": "3645c64bccd0a9499a24a64d030fb0c9be3b703c",
+      "title": "Développeur Python - CDI - Paris H/F",
+      "company": "collectivite",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80060048.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336604+00:00"
+    },
+    {
+      "url_hash": "212612b6e93cb190c84d1b6db0d1cb4c14f7a876",
+      "title": "Finaxys Recrute un Développeur Python H/F",
+      "company": "collectivite",
+      "location": "Puteaux - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80061196.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336607+00:00"
+    },
+    {
+      "url_hash": "364bdead3265187c8083179ff289601d717ec2bf",
+      "title": "Développeur Python - C# Front-Office H/F",
+      "company": "collectivite",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80058821.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336610+00:00"
+    },
+    {
+      "url_hash": "bd37309d52a94548ceba5a75edf0944be879a94e",
+      "title": "Développeur Python - Appétence DevOps - Télécom - Paris H/F",
+      "company": "collectivite",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80071261.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-14T10:57:53.336613+00:00"
+    },
+    {
+      "url_hash": "cdbf88cbf3d773a0409cfc72ec4605c8a2890e42",
+      "title": "Développeur Python Senior - Référent Squad - Paris H/F",
+      "company": "collectivite",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80060517.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-14T10:57:53.336617+00:00"
+    }
+  ]
 }
