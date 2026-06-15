@@ -384,6 +384,94 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-06-14T19:35:47.985840+00:00"
+    },
+    {
+      "url_hash": "8c6e14cd9c80c62af5157c0a4bd0c2b93c4ee910",
+      "title": "DEVELOPPEUR PYTHON GOLANG F/H",
+      "company": "TEAM SMC",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178878921W",
+      "posted_at": "2026-06-15T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-06-15T11:30:14.352190+00:00"
+    },
+    {
+      "url_hash": "8f5b7048613b980b88c04d5662afdb71b7fa0fc8",
+      "title": "Développeur Python Senior F/H",
+      "company": "Meteojob",
+      "location": "Paris 09 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178872355W",
+      "posted_at": "2026-06-15T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-15T11:30:14.352202+00:00"
+    },
+    {
+      "url_hash": "214ab8abcf8a4181e33e4865d22bd6e231a85895",
+      "title": "6830 - Développeur Python / Django / React / AWS F/H",
+      "company": "STEP UP",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178852665W",
+      "posted_at": "2026-06-15T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-15T11:30:14.352208+00:00"
+    },
+    {
+      "url_hash": "fb0c0ca6ff2e12796dfb8c1e4ad647e40e088fd9",
+      "title": "Developpeur(se) Python/Devops - Services Financiers - Paris F/H",
+      "company": "Handicap Job",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178876772W",
+      "posted_at": "2026-06-15T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-06-15T11:30:14.352214+00:00"
+    },
+    {
+      "url_hash": "458a7f523bea270d4027821dadb17f841139ee86",
+      "title": "Développeur Python R&D |  Practice SE MARGO",
+      "company": "MARGO",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/margo/jobs/developpeur-python-r-d-h-f_paris_MARGO_QbXxgjl",
+      "posted_at": "2026-06-15T06:26:10+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-15T11:30:14.352219+00:00"
+    },
+    {
+      "url_hash": "784f48564fc11787cb1ba67dcff8661509161899",
+      "title": "Développeur Senior Python |  Practice SE MARGO",
+      "company": "MARGO",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/margo/jobs/developpeur-senior-python-practice-se-margo_paris",
+      "posted_at": "2026-06-15T06:26:15+00:00",
+      "source": "wttj",
+      "score": 3.5,
+      "created_at": "2026-06-15T11:30:14.352223+00:00"
+    },
+    {
+      "url_hash": "974525a9e514eca66b2855b59a9b0e73bf0ac6a9",
+      "title": "Ingénieur(e) Développement Logiciel Python",
+      "company": "Jimmy",
+      "location": "Paris · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/jimmy-energy/jobs/ingenieur-developpement-logiciel-python_paris",
+      "posted_at": "2026-06-15T08:38:56+00:00",
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-06-15T11:30:14.352228+00:00"
+    },
+    {
+      "url_hash": "e5b12621c1c8cadf7309bf42f5cb9e0b4c5cf55c",
+      "title": "Développeur Python H/F",
+      "company": "Meritis",
+      "location": "Paris 8e - 75 · CDI · Télétravail occasionnel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/70757988.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-15T11:30:14.352237+00:00"
     }
   ]
 }
