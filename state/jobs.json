@@ -582,6 +582,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-06-16T17:45:24.251450+00:00"
+    },
+    {
+      "url_hash": "307d87b7041f6e04400df14b5c188ce8009ce4fb",
+      "title": "Développeur Python Django F/H",
+      "company": "Hellowork",
+      "location": "Sevran - 93 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178889980W",
+      "posted_at": "2026-06-17T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-17T11:14:00.999232+00:00"
+    },
+    {
+      "url_hash": "7bcac020e59f3acd896232164b42f3e6f0dff39a",
+      "title": "Finaxys recrute un Développeur Python F/H",
+      "company": "FINAXYS",
+      "location": "Puteaux - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178569418W",
+      "posted_at": "2026-06-17T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-06-17T11:14:00.999244+00:00"
     }
   ]
 }
