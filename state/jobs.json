@@ -604,6 +604,39 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-06-17T11:14:00.999244+00:00"
+    },
+    {
+      "url_hash": "1bf6950c0c9e6a2537874d440a7d406472a4f0b7",
+      "title": "Développeur Backend Confirmé - Django REST Framework F/H",
+      "company": "INSIDE",
+      "location": "Guyancourt - 78 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178893874W",
+      "posted_at": "2026-06-17T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-17T13:14:57.013526+00:00"
+    },
+    {
+      "url_hash": "ac73f0e1fea6e2025bc050817ce6944be2f544f4",
+      "title": "Développeur Python IA - Niji H/F",
+      "company": "Niji",
+      "location": "Issy-les-Moulineaux - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/74644789.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-17T13:14:57.013566+00:00"
+    },
+    {
+      "url_hash": "4c29a0555b59ce5ce9ee012d0ef9cb6400045cb0",
+      "title": "Lead Developer Python - React - CDI - Paris H/F",
+      "company": "collectivite",
+      "location": "Paris - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80057611.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-17T13:14:57.013571+00:00"
     }
   ]
 }
