@@ -736,6 +736,28 @@
       "source": "hellowork",
       "score": 3.0,
       "created_at": "2026-06-22T11:22:32.615131+00:00"
+    },
+    {
+      "url_hash": "0ede34a1abf00fc77c10dba516597fdb63ca8c4a",
+      "title": "(Mission ou Agent) Développeur·se Django Back-End Senior",
+      "company": "beta.gouv.fr",
+      "location": "Paris · Freelance",
+      "url": "https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/developpeur-se-django-back-end-senior",
+      "posted_at": "2026-06-22T09:09:23+00:00",
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-06-22T13:53:05.224724+00:00"
+    },
+    {
+      "url_hash": "981dc9e6e576dcd3098549714d4a804af3032c4b",
+      "title": "Senior Software Engineer (Python, FastAPI)",
+      "company": "Ekie",
+      "location": "Paris · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/ekie/jobs/backend-engineer-python-fastapi_paris",
+      "posted_at": "2026-06-22T07:46:44+00:00",
+      "source": "wttj",
+      "score": 3.0,
+      "created_at": "2026-06-22T13:53:05.224733+00:00"
     }
   ]
 }
