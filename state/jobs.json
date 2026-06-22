@@ -692,6 +692,50 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-06-20T16:34:24.317158+00:00"
+    },
+    {
+      "url_hash": "4580392cefe246206511a46fa6d17130fa646812",
+      "title": "Développeur junior Java/Python F/H",
+      "company": "Proaxian",
+      "location": "Courbevoie - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178918456W",
+      "posted_at": "2026-06-22T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-06-22T11:22:32.615094+00:00"
+    },
+    {
+      "url_hash": "0caf4fa8051197b9aabfb426a53319a690adfde7",
+      "title": "Développeur Python H/F",
+      "company": "Securinfor",
+      "location": "Rungis - 94 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80456310.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-22T11:22:32.615103+00:00"
+    },
+    {
+      "url_hash": "0930f08dfef55a17f982dc1d9b119112e4f75575",
+      "title": "Python Developer - Paris H/F",
+      "company": "Approach People Recruitment",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80459780.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-22T11:22:32.615122+00:00"
+    },
+    {
+      "url_hash": "3ee0cc4b3e141afdfa63c04081bb3b92d71ecbfb",
+      "title": "Full Remote - Senior Backend Engineer Python - Flask H/F",
+      "company": "Team.is",
+      "location": "Paris 1er - 75 · CDI · Télétravail complet",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80455897.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 3.0,
+      "created_at": "2026-06-22T11:22:32.615131+00:00"
     }
   ]
 }
