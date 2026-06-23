@@ -758,6 +758,50 @@
       "source": "wttj",
       "score": 3.0,
       "created_at": "2026-06-22T13:53:05.224733+00:00"
+    },
+    {
+      "url_hash": "82712bee5020e78e262e711ed8d23bdc940dd77d",
+      "title": "Ingénieur Développeur Logiciel Python (Paris) F/H",
+      "company": "PROBAYES",
+      "location": "Paris 15 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178678863W",
+      "posted_at": "2026-06-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-06-23T10:42:41.501097+00:00"
+    },
+    {
+      "url_hash": "86d1f75eb6072342098891eb051a36e3dd994476",
+      "title": "Développeur Full Stack Python / Angular – Banque / Legal Tech  - CDI F/H",
+      "company": "Collective",
+      "location": "Charenton-le-Pont - 94 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178926086W",
+      "posted_at": "2026-06-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-06-23T10:42:41.501107+00:00"
+    },
+    {
+      "url_hash": "0f25e1c6ddf1a6b4c8546d64990cbc220be51c90",
+      "title": "Software Engineer Fullstack Python/React (F/H)",
+      "company": "AXA",
+      "location": "Nanterre · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/axa/jobs/software-engineer-fullstack-python-react-f-h_nanterre",
+      "posted_at": "2026-06-23T01:00:36+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-23T10:42:41.501114+00:00"
+    },
+    {
+      "url_hash": "8d179d71452285eb2aff1e52b9b3dfb96ad8b52b",
+      "title": "Développeur Python Fastapi - Angular - Java - Openshift H/F",
+      "company": "collectivite",
+      "location": "Paris - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80513885.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-23T10:42:41.501180+00:00"
     }
   ]
 }
