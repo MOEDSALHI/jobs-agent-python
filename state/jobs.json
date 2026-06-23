@@ -802,6 +802,61 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-06-23T10:42:41.501180+00:00"
+    },
+    {
+      "url_hash": "5a1cc1d00dfa1ac94fe6756866a460082c3a6c0b",
+      "title": "DÉVELOPPEUR PYTHON / JAVASCRIPT ? DEPLOIEMENT ALM F/H",
+      "company": "PERCALL APS",
+      "location": "Les Mureaux - 78 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178929293W",
+      "posted_at": "2026-06-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-06-23T16:51:53.798873+00:00"
+    },
+    {
+      "url_hash": "6ba72e24c585bff07fced627a7c0b3d146aeb52d",
+      "title": "Ingénieur en développement python / django/ typescript/ vue.js (siège) F/H",
+      "company": "Inserm",
+      "location": "Paris 01 - 75 · CDD",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178929655W",
+      "posted_at": "2026-06-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-23T16:51:53.798887+00:00"
+    },
+    {
+      "url_hash": "3edd7d4b598ee260ceb6c8abfd46df6940c9cb1a",
+      "title": "Développeur Backend Senior Python (H/F)",
+      "company": "Linking Talents",
+      "location": "Aubervilliers · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/linking-talents/jobs/developpeur-backend-senior-python-h-f_aubervilliers",
+      "posted_at": "2026-06-23T14:47:21+00:00",
+      "source": "wttj",
+      "score": 4.5,
+      "created_at": "2026-06-23T16:51:53.798893+00:00"
+    },
+    {
+      "url_hash": "e7735637e308926ab0088f98208446f4a56e89f7",
+      "title": "Développeur Backend Senior Python H/F",
+      "company": "Linking Talents",
+      "location": "Aubervilliers - 93 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80533194.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 3.0,
+      "created_at": "2026-06-23T16:51:53.798911+00:00"
+    },
+    {
+      "url_hash": "796390ebbac90687b00f59b63401029e2ff05048",
+      "title": "Développeur Logiciel Junior Python - PHP H/F",
+      "company": "Linking Talents",
+      "location": "Aubervilliers - 93 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80533232.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-23T16:51:53.798917+00:00"
     }
   ]
 }
