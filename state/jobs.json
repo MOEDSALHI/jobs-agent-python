@@ -879,6 +879,39 @@
       "source": "apec",
       "score": 2.0,
       "created_at": "2026-06-24T10:31:17.138046+00:00"
+    },
+    {
+      "url_hash": "b1dc1618a149af56b4981cd1b32aaf19c14703eb",
+      "title": "Développeur(se) Python/Devops - Services Financiers - Paris",
+      "company": "Sopra Steria",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/sopra-steria/jobs/developpeur-se-python-devops-services-financiers-paris_paris_SS_KQmK34z",
+      "posted_at": "2026-06-23T22:08:21+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-24T12:44:13.435659+00:00"
+    },
+    {
+      "url_hash": "69aac5428ca9ec198607a4a62bff49d0e1555225",
+      "title": "Software Engineer Python",
+      "company": "Ornikar",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/ornikar/jobs/software-engineer-python_paris_ORNIK_RbOZJzp",
+      "posted_at": "2026-06-23T22:18:11+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-24T12:44:13.435669+00:00"
+    },
+    {
+      "url_hash": "e77d7a65c7424185071110a79441f04c4b290a33",
+      "title": "Python Software Engineer",
+      "company": "Cafeyn",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/cafeyn/jobs/python-software-engineer_paris",
+      "posted_at": "2026-06-23T22:00:33+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-24T12:44:13.435675+00:00"
     }
   ]
 }
