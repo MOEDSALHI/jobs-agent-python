@@ -912,6 +912,28 @@
       "source": "wttj",
       "score": 2.5,
       "created_at": "2026-06-24T12:44:13.435675+00:00"
+    },
+    {
+      "url_hash": "36544bedb30352e53ee54516e91f3dddefa15a5b",
+      "title": "Lead Software Engineer Python/Java IA F/H",
+      "company": "cadremploi",
+      "location": "Nanterre - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178939125W",
+      "posted_at": "2026-06-25T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-25T10:26:42.512393+00:00"
+    },
+    {
+      "url_hash": "07097f9cb254e7c368b1d950bbcf35c5c1dc9421",
+      "title": "Développeur·euse Backend",
+      "company": "Bamboo Rose",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/verteego/jobs/developpeur-euse-backend_paris",
+      "posted_at": "2026-06-25T08:16:14+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-25T10:26:42.512408+00:00"
     }
   ]
 }
