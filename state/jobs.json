@@ -945,6 +945,50 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-06-25T16:48:59.277987+00:00"
+    },
+    {
+      "url_hash": "81c633f25f5efc1790ef074bb06efbb0c32f233b",
+      "title": "Développeur Backend Senior Python F/H",
+      "company": "LINKING TALENTS",
+      "location": "Aubervilliers - 93 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178929246W",
+      "posted_at": "2026-06-26T00:00:00+00:00",
+      "source": "apec",
+      "score": 3.0,
+      "created_at": "2026-06-26T10:33:49.549417+00:00"
+    },
+    {
+      "url_hash": "d5bbcad628ea67632612aa28396df8e4f0d0cc3b",
+      "title": "🧩 Développeur Python (FastAPI) / Angular / Java / OpenShift - CDI F/H",
+      "company": "Collective",
+      "location": "Paris 04 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178928046W",
+      "posted_at": "2026-06-26T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-26T10:33:49.549430+00:00"
+    },
+    {
+      "url_hash": "d8aa46d7c36d818ee2202b05a134c42a721ede2d",
+      "title": "Développeur Fullstack Python-React H/F",
+      "company": "Team.is",
+      "location": "Paris 1er - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80352210.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-26T10:33:49.549446+00:00"
+    },
+    {
+      "url_hash": "00212c2318b93beaa78d09400c5038ecd397ba70",
+      "title": "Senior Backend Engineer Python - Flask H/F",
+      "company": "Team.is",
+      "location": "Paris 7e - 75 · CDI · Télétravail complet",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80652236.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 3.0,
+      "created_at": "2026-06-26T10:33:49.549458+00:00"
     }
   ]
 }
