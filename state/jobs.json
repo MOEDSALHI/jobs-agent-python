@@ -1022,6 +1022,39 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-06-29T11:15:08.184274+00:00"
+    },
+    {
+      "url_hash": "67d4e458e749e25b76ad4cc62c795a141fd1c4b4",
+      "title": "Développeur python Senior- Paris - F/H",
+      "company": "FERMIC EDITIONS-ANNU-UMTS-GPRS-ILIAD TELECOM",
+      "location": "Paris 08 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178961931W",
+      "posted_at": "2026-06-29T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-06-29T17:03:56.908829+00:00"
+    },
+    {
+      "url_hash": "6652fa5431bf8987c08cf351a8987b3ba12b42d6",
+      "title": "Développeur.euse Fullstack Senior/Product Engineer Python & React (H/F/X)",
+      "company": "Vestalis",
+      "location": "Romainville · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/vestalis/jobs/developpeur-euse-fullstack-senior-product-engineer-python-react-h-f-x_VESTA_LoGVaYG",
+      "posted_at": "2026-06-29T15:43:28+00:00",
+      "source": "wttj",
+      "score": 3.5,
+      "created_at": "2026-06-29T17:03:56.908860+00:00"
+    },
+    {
+      "url_hash": "beca843cdda4e84539c5ccac6e16d7626733bf3b",
+      "title": "Développeur Python H/F",
+      "company": "OCSI Group",
+      "location": "Paris - 75 · CDI · Télétravail occasionnel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80737386.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-06-29T17:03:56.908870+00:00"
     }
   ]
 }
