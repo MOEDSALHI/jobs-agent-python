@@ -1055,6 +1055,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-06-29T17:03:56.908870+00:00"
+    },
+    {
+      "url_hash": "399bccfa0e95ec65034f0c0d8585b4975dc61f14",
+      "title": "Développeur Logiciel C/C++/Python F/H",
+      "company": "BERTRANDT",
+      "location": "Versailles - 78 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178967799W",
+      "posted_at": "2026-06-30T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-06-30T10:38:41.256365+00:00"
+    },
+    {
+      "url_hash": "eae3742caba7a10f7780c5dc3bd7350fb88a14d5",
+      "title": "Senior Backend Python Developer - CDI - Paris",
+      "company": "Papernest",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/papernest/jobs/senior-backend-python-developer-cdi-paris_paris",
+      "posted_at": "2026-06-29T22:02:07+00:00",
+      "source": "wttj",
+      "score": 4.5,
+      "created_at": "2026-06-30T10:38:41.256380+00:00"
+    },
+    {
+      "url_hash": "92c97fd466ac401d90a44115751a659db3b6c3e6",
+      "title": "Lead Développeur Python Full Stack H/F",
+      "company": "Consort Group",
+      "location": "Paris 17e - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80753288.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-06-30T10:38:41.256393+00:00"
     }
   ]
 }
