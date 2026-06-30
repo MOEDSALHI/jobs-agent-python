@@ -1088,6 +1088,17 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-06-30T10:38:41.256393+00:00"
+    },
+    {
+      "url_hash": "91306cb04be293bee9d8dbe3a1852cdfeb579e0d",
+      "title": "Développeur Python",
+      "company": "Visian",
+      "location": "Courbevoie · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/visian/jobs/06cf1ff4-1aa3-48e9-8247-ca180b373358",
+      "posted_at": "2026-06-30T14:02:48+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-06-30T16:47:42.349452+00:00"
     }
   ]
 }
