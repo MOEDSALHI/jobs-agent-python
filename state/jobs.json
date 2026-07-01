@@ -1176,6 +1176,28 @@
       "source": "wttj",
       "score": 4.0,
       "created_at": "2026-07-01T12:58:19.660323+00:00"
+    },
+    {
+      "url_hash": "b869ed250fabd028d26a5b761f784230e4061c7f",
+      "title": "Ingénieur Développeur C++ / Python – Secteur Défense F/H",
+      "company": "CELAD",
+      "location": "Guyancourt - 78 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178977073W",
+      "posted_at": "2026-07-01T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-01T16:50:48.396084+00:00"
+    },
+    {
+      "url_hash": "3efb772d5f53a0a3c429f1d9fbf83e6a91bb106b",
+      "title": "Ingénieur Développeur C++ - Python - Secteur Défense H/F",
+      "company": "Celad",
+      "location": "Guyancourt - 78 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80842458.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-07-01T16:50:48.396121+00:00"
     }
   ]
 }
