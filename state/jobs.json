@@ -1099,6 +1099,50 @@
       "source": "wttj",
       "score": 2.5,
       "created_at": "2026-06-30T16:47:42.349452+00:00"
+    },
+    {
+      "url_hash": "3dd1f74cfc259b6b33ea2c27a55ca23fa5734d0c",
+      "title": "Développeur Fullstack Python / Angular - CDI F/H",
+      "company": "Collective",
+      "location": "Paris 04 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178949570W",
+      "posted_at": "2026-07-01T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-01T10:45:28.205984+00:00"
+    },
+    {
+      "url_hash": "e9e05c7fcce7da528973bd6cf6abcc76a6195947",
+      "title": "Développeur Python R&D | Practice SE MARGO F/H",
+      "company": "MARGO CONSEIL",
+      "location": "Paris 08 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178974164W",
+      "posted_at": "2026-07-01T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-01T10:45:28.205995+00:00"
+    },
+    {
+      "url_hash": "01a2652d4c3b56c17e4b5ca32bdcef1c052fa393",
+      "title": "Ingénieur·e Logiciel (Backend, Python)",
+      "company": "Octopus Energy France",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/octopus-energy/jobs/ingenieur-e-logiciel-backend-python_paris",
+      "posted_at": "2026-07-01T10:34:39+00:00",
+      "source": "wttj",
+      "score": 3.5,
+      "created_at": "2026-07-01T10:45:28.206005+00:00"
+    },
+    {
+      "url_hash": "9a93081e5dc9ee39f95e58502c3445beeb4e3a39",
+      "title": "Software Engineer (Backend, Python)",
+      "company": "Octopus Energy France",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/octopus-energy/jobs/software-engineer-backend-python_paris",
+      "posted_at": "2026-07-01T10:31:27+00:00",
+      "source": "wttj",
+      "score": 3.5,
+      "created_at": "2026-07-01T10:45:28.206013+00:00"
     }
   ]
 }
