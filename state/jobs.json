@@ -1198,6 +1198,61 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-07-01T16:50:48.396121+00:00"
+    },
+    {
+      "url_hash": "b57d36d8e02d47fbd39cbb612958eb9f10d4ed91",
+      "title": "Ingénieur Développeur C++ / Python – Secteur Défense F/H",
+      "company": "CO-MARTIN",
+      "location": "Guyancourt - 78 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178979371W",
+      "posted_at": "2026-07-02T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-02T10:22:48.838962+00:00"
+    },
+    {
+      "url_hash": "3cd337dd612973c28858ab23d529ca2e9a74b5ad",
+      "title": "Senior Backend Engineer Python/Django Télétravail complet F/H",
+      "company": "Meteojob",
+      "location": "Paris 09 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178979782W",
+      "posted_at": "2026-07-02T00:00:00+00:00",
+      "source": "apec",
+      "score": 4.0,
+      "created_at": "2026-07-02T10:22:48.838972+00:00"
+    },
+    {
+      "url_hash": "88b12eea8c00349ea649b8f640c79bce8746f412",
+      "title": "développeur·euse web full stack Django / Vue.js F/H",
+      "company": "Welcome to the Jungle",
+      "location": "Paris 13 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178976449W",
+      "posted_at": "2026-07-01T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-02T10:22:48.838978+00:00"
+    },
+    {
+      "url_hash": "7257d04fd284b13cfef8e02ddaf91a2c3589c968",
+      "title": "Développeur Python / GCP / MS Fabric H/F",
+      "company": "NEXTON",
+      "location": "Saint-Augustin · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/nexton-consulting/jobs/developpeur-python-gcp-ms-fabric-h-f_saint-augustin",
+      "posted_at": "2026-07-01T22:00:51+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-07-02T10:22:48.838985+00:00"
+    },
+    {
+      "url_hash": "37c07584c801dc62d43ced9aef4c9147bd3b9f3c",
+      "title": "Senior Backend Engineer Python - Django - Télétravail Complet H/F",
+      "company": "Bureau des Talents",
+      "location": "Paris - 75 · CDI · Télétravail complet",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80854793.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 4.0,
+      "created_at": "2026-07-02T10:22:48.839014+00:00"
     }
   ]
 }
