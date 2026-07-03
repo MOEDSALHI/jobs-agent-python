@@ -1286,6 +1286,17 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-07-03T11:44:57.185006+00:00"
+    },
+    {
+      "url_hash": "455590dc7f5b13e04099c949d35f8d2ad0318aa7",
+      "title": "Data Engineering Python - CDI F/H",
+      "company": "Collective",
+      "location": "Massy - 91 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178994657W",
+      "posted_at": "2026-07-03T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-03T17:24:46.262923+00:00"
     }
   ]
 }
