@@ -1341,6 +1341,28 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-07-06T13:03:40.043593+00:00"
+    },
+    {
+      "url_hash": "42d87d4c63d2d6c38e197a4b24d1335f4de51b21",
+      "title": "Développeur Python confirmé F/H",
+      "company": "ANEO",
+      "location": "Boulogne-Billancourt - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179006273W",
+      "posted_at": "2026-07-06T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-06T18:11:00.752137+00:00"
+    },
+    {
+      "url_hash": "5dbe43dcc503eb6e543c378cdac1fe53698f47bc",
+      "title": "Développeur Python - Vuejs H/F",
+      "company": "Assystem",
+      "location": "Saint-Denis - 93 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81020522.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-07-06T18:11:00.752154+00:00"
     }
   ]
 }
