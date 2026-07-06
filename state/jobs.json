@@ -1297,6 +1297,50 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-07-03T17:24:46.262923+00:00"
+    },
+    {
+      "url_hash": "58adbf8d5e4ce79f10aa242422a05d086d6c96e2",
+      "title": "Développeur Python / VueJS F/H",
+      "company": "ASSYSTEM",
+      "location": "Saint-Denis - 93 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179004283W",
+      "posted_at": "2026-07-06T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-06T13:03:40.043568+00:00"
+    },
+    {
+      "url_hash": "789557e6e4740b50dbf930062129c4d8d9bd6d67",
+      "title": "Développeur Python Data & IA F/H",
+      "company": "LINKSYDE",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179004477W",
+      "posted_at": "2026-07-06T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-06T13:03:40.043581+00:00"
+    },
+    {
+      "url_hash": "b05fda5c9cae72b73dad160290d2c5b0c00a0384",
+      "title": "Tech Lead Python - CDI F/H",
+      "company": "Hellowork",
+      "location": "Boulogne-Billancourt - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178999486W",
+      "posted_at": "2026-07-06T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-07-06T13:03:40.043588+00:00"
+    },
+    {
+      "url_hash": "a73ccfca9d363bc8ceabcb68b44cd4a1b66f9dfd",
+      "title": "Software Engineer Fullstack Python/React F/H",
+      "company": "AXA",
+      "location": "Nanterre - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/178995183W",
+      "posted_at": "2026-07-06T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-06T13:03:40.043593+00:00"
     }
   ]
 }
