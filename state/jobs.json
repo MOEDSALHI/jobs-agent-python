@@ -1363,6 +1363,83 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-07-06T18:11:00.752154+00:00"
+    },
+    {
+      "url_hash": "cdbd10ebe0713a3e20a378bda8be5f99838f6472",
+      "title": "Développeur Python F/H",
+      "company": "Hellowork",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179021860W",
+      "posted_at": "2026-07-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-07T12:15:00.926342+00:00"
+    },
+    {
+      "url_hash": "584f4c9010d778a759bad98919eb3b14d01e1850",
+      "title": "Développeur Python F/H",
+      "company": "Hellowork",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179021578W",
+      "posted_at": "2026-07-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-07T12:15:00.926353+00:00"
+    },
+    {
+      "url_hash": "2c583d6316ff64a024ef0b676d717a5ec366b3c5",
+      "title": "Développeur Python F/H",
+      "company": "Hellowork",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179019146W",
+      "posted_at": "2026-07-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-07T12:15:00.926359+00:00"
+    },
+    {
+      "url_hash": "45408734e99c876ebcda61f6195047d62717cc32",
+      "title": "Développeur Python F/H",
+      "company": "Hellowork",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179023084W",
+      "posted_at": "2026-07-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-07T12:15:00.926364+00:00"
+    },
+    {
+      "url_hash": "c5dd860c1da17b6ecf1e7707598ce3bcc8e513e9",
+      "title": "Développeur Python F/H",
+      "company": "Hellowork",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179015979W",
+      "posted_at": "2026-07-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-07T12:15:00.926369+00:00"
+    },
+    {
+      "url_hash": "7807d7ed206f8df2383c700e94d2a3a9aff07bfc",
+      "title": "Développeur Python Iam F/H",
+      "company": "Hellowork",
+      "location": "Élancourt - 78 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179013597W",
+      "posted_at": "2026-07-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-07T12:15:00.926375+00:00"
+    },
+    {
+      "url_hash": "580b3162ae669557427b56ad821231f6eb7fd8b7",
+      "title": "Développeur Full Stack Junior (Backend & Frontend) – CDI F/H",
+      "company": "LOGWIRE CONSULTING",
+      "location": "Asnières-sur-Seine - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179024745W",
+      "posted_at": "2026-07-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-07T12:15:00.926383+00:00"
     }
   ]
 }
