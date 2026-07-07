@@ -1440,6 +1440,39 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-07-07T12:15:00.926383+00:00"
+    },
+    {
+      "url_hash": "8c274274b5d8148f7ba04bd6d5d9e3331af07b62",
+      "title": "Développeur Perl et Python F/H",
+      "company": "Hellowork",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179026832W",
+      "posted_at": "2026-07-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-07T14:17:27.187714+00:00"
+    },
+    {
+      "url_hash": "2d012231a5d21decfe2a1d9651c7ae57f39017c2",
+      "title": "Développeur Python Senior H/F",
+      "company": "Display Interactive",
+      "location": "Montrouge · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/display-interactive/jobs/developpeur-python-senior-h-f_montrouge_DI_LPlJkrR",
+      "posted_at": "2026-07-07T13:04:18+00:00",
+      "source": "wttj",
+      "score": 3.5,
+      "created_at": "2026-07-07T14:17:27.187728+00:00"
+    },
+    {
+      "url_hash": "eb7907c86aca1fbf17bf1e43d3b0ba8ca28da6ba",
+      "title": "Senior backend developer - CDI - Paris",
+      "company": "Papernest",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/papernest/jobs/senior-backend-developer-cdi-paris_paris",
+      "posted_at": "2026-07-06T22:01:18+00:00",
+      "source": "wttj",
+      "score": 3.5,
+      "created_at": "2026-07-07T14:17:27.187735+00:00"
     }
   ]
 }
