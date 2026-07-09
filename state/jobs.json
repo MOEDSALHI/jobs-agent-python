@@ -1561,6 +1561,72 @@
       "source": "apec",
       "score": 2.0,
       "created_at": "2026-07-09T12:28:23.787967+00:00"
+    },
+    {
+      "url_hash": "488d4bec535ad73a96a8d7008a30339cfe0f52fb",
+      "title": "Développeur Python F/H",
+      "company": "Hellowork",
+      "location": "Paris 08 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179078345W",
+      "posted_at": "2026-07-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-09T17:54:58.732891+00:00"
+    },
+    {
+      "url_hash": "145b7ba008718861789c7bb94e4438b28c870cbf",
+      "title": "Développeur Python - Finance F/H",
+      "company": "Hellowork",
+      "location": "Paris 08 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179080386W",
+      "posted_at": "2026-07-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-09T17:54:58.732900+00:00"
+    },
+    {
+      "url_hash": "55329ca4878e8d507ee10cb1e38a39ebfb920b5b",
+      "title": "Développeur Python Full Stack F/H",
+      "company": "Hellowork",
+      "location": "Saint-Denis - 93 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179079025W",
+      "posted_at": "2026-07-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-09T17:54:58.732905+00:00"
+    },
+    {
+      "url_hash": "edc8394bef8a266471956f82d846c723cc163052",
+      "title": "Développeur Python Orienté IA - Secteur Bancaire F/H",
+      "company": "Hellowork",
+      "location": "Charenton-le-Pont - 94 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179079823W",
+      "posted_at": "2026-07-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-09T17:54:58.732910+00:00"
+    },
+    {
+      "url_hash": "c2801385359355586bdbd3de6b78e67084e6961b",
+      "title": "Développeur Backend Java / Node.js F/H",
+      "company": "YZZY",
+      "location": "Issy-les-Moulineaux - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179077947W",
+      "posted_at": "2026-07-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-09T17:54:58.732913+00:00"
+    },
+    {
+      "url_hash": "1b8d03074a968a0f207f3a1e8964f02f6ae389ce",
+      "title": "Senior Développeur Full Stack Python - Vue.Js - Xp React H/F",
+      "company": "Twenty One Talents",
+      "location": "Paris 1er - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81149247.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-07-09T17:54:58.732936+00:00"
     }
   ]
 }
