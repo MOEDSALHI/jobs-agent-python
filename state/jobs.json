@@ -1627,6 +1627,61 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-07-09T17:54:58.732936+00:00"
+    },
+    {
+      "url_hash": "14ebb37a93a3d7c4aa8891dd5256703d50118b54",
+      "title": "Développeur Python confirmé F/H",
+      "company": "ANEO",
+      "location": "Boulogne-Billancourt - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179090525W",
+      "posted_at": "2026-07-10T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-10T12:13:15.882139+00:00"
+    },
+    {
+      "url_hash": "f046a188ae8a1583e29b73a5e4c5a142446fbab2",
+      "title": "Développeur Python / Appétence DevOps - Télécom - Paris F/H",
+      "company": "EASY PARTNER",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179092811W",
+      "posted_at": "2026-07-10T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-10T12:13:15.882157+00:00"
+    },
+    {
+      "url_hash": "fda4a1a9aa1adb2335c53c664c120aa7dc15693d",
+      "title": "Data Engineer Python Senior F/H",
+      "company": "PMEJOB",
+      "location": "Massy - 91 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179090669W",
+      "posted_at": "2026-07-10T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-07-10T12:13:15.882165+00:00"
+    },
+    {
+      "url_hash": "7c60e92e08500b867e2556f117ec628191daade7",
+      "title": "Développeur.se Senior Fullstack (Python / React / AWS)",
+      "company": "Ezus",
+      "location": "Paris · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/ezus/jobs/full-stack-developpeur-stage_paris",
+      "posted_at": "2026-07-10T07:41:31+00:00",
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-07-10T12:13:15.882175+00:00"
+    },
+    {
+      "url_hash": "ebad16e92046a54d7181c5f271ac60aa93de9c96",
+      "title": "Développeur Web Full stack Python/Angular H/F - Paris",
+      "company": "EIG",
+      "location": "Courbevoie · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/eig/jobs/developpeur-web-full-stack-python-angular-h-f-paris_courbevoie",
+      "posted_at": "2026-07-10T09:39:29+00:00",
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-07-10T12:13:15.882180+00:00"
     }
   ]
 }
