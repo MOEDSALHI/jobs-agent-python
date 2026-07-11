@@ -1704,6 +1704,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-07-10T17:47:22.084902+00:00"
+    },
+    {
+      "url_hash": "61ebaaefef2f269cfeefdca13ba56d2a1d785a46",
+      "title": "Développeur Fullstack (Python-React) F/H",
+      "company": "TEAMIS",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179098761W",
+      "posted_at": "2026-07-11T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-11T10:40:24.595185+00:00"
+    },
+    {
+      "url_hash": "779934997ce8552dd552427c41edc8aeb1cec2de",
+      "title": "Développeur Full Stack Python / Angular F/H",
+      "company": "KHALFA  GABRIEL",
+      "location": "Paris 13 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179097662W",
+      "posted_at": "2026-07-10T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-11T10:40:24.595197+00:00"
+    },
+    {
+      "url_hash": "a490399f68e7f8a7f295731c1c43f094c15bf6a9",
+      "title": "Développeur Fullstack Python-React H/F",
+      "company": "Team.is",
+      "location": "Paris 1er - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81228665.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-07-11T10:40:24.595226+00:00"
     }
   ]
 }
