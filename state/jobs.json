@@ -1737,6 +1737,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-07-11T10:40:24.595226+00:00"
+    },
+    {
+      "url_hash": "a7f97513c2c33427d9facc463111c11dc05668cf",
+      "title": "Développeur Python - Vuejs F/H",
+      "company": "Hellowork",
+      "location": "Saint-Denis - 93 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179105912W",
+      "posted_at": "2026-07-13T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-13T12:20:27.342312+00:00"
+    },
+    {
+      "url_hash": "c46f7f6dd386acd894bf07303369a835341374fc",
+      "title": "Lead Developer Fullstack Reactjs - Nodejs - Python - Ml H/F",
+      "company": "ArcaScience",
+      "location": "Paris - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81259185.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-07-13T12:20:27.342343+00:00"
     }
   ]
 }
