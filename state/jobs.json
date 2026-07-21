@@ -1869,6 +1869,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-07-21T11:23:17.125146+00:00"
+    },
+    {
+      "url_hash": "df91c0fc690305e2ac43c69a70a6df47a9fcc506",
+      "title": "Développeur Python Fullstack H/F",
+      "company": "Devoteam France",
+      "location": "Levallois-Perret - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81534922.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-07-21T17:26:13.092209+00:00"
+    },
+    {
+      "url_hash": "1c41f6fa21bbba0fd87fd97baf9e2f5372623f48",
+      "title": "Développeur Fullstack - Python - Angular H/F",
+      "company": "Devoteam France",
+      "location": "Levallois-Perret - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81534648.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-07-21T17:26:13.092245+00:00"
+    },
+    {
+      "url_hash": "62b6f9b2f3ccd11ce0a61a585727da1ada37f6ff",
+      "title": "Python DevOps Developer H/F",
+      "company": "Devoteam France",
+      "location": "Levallois-Perret - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81534673.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-07-21T17:26:13.092266+00:00"
     }
   ]
 }
