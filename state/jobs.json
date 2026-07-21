@@ -1847,6 +1847,28 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-07-20T18:01:05.305757+00:00"
+    },
+    {
+      "url_hash": "92c9ef41cf64fe7f2231c9fae0294391a698f4f5",
+      "title": "Développeur(se) Python/Devops - Services Financiers - Paris",
+      "company": "Sopra Steria",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/sopra-steria/jobs/developpeur-se-python-devops-services-financiers-paris_paris_SS_0k4arly",
+      "posted_at": "2026-07-20T22:07:22+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-07-21T11:23:17.125125+00:00"
+    },
+    {
+      "url_hash": "718785443c0384b534f1eb84a931cf4fca3c2369",
+      "title": "Développeur Web Junior - Python & PHP H/F",
+      "company": "Talents IT",
+      "location": "Aubervilliers - 93 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81504951.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-07-21T11:23:17.125146+00:00"
     }
   ]
 }
