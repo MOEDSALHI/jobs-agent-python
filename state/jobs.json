@@ -1902,6 +1902,50 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-07-21T17:26:13.092266+00:00"
+    },
+    {
+      "url_hash": "1d0d4e55da48dd1fa354df4cbf6f1da280f13494",
+      "title": "Développeur Python Fullstack F/H",
+      "company": "Hellowork",
+      "location": "Levallois-Perret - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179159772W",
+      "posted_at": "2026-07-22T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-22T11:25:25.344806+00:00"
+    },
+    {
+      "url_hash": "e5b8076757b5f0f6d1d3cde685092127822a4d5a",
+      "title": "Data Engineer Python / SQL – Confirmé(e), Senior ou Expert(e) – F/H",
+      "company": "Astorm",
+      "location": "Paris 20 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179156380W",
+      "posted_at": "2026-07-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-07-22T11:25:25.344817+00:00"
+    },
+    {
+      "url_hash": "b4e67490365825bf79e18e20cc0cae759e56125e",
+      "title": "Tech Lead Python Fullstack F/H",
+      "company": "Hellowork",
+      "location": "Levallois-Perret - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179160016W",
+      "posted_at": "2026-07-22T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-07-22T11:25:25.344823+00:00"
+    },
+    {
+      "url_hash": "73baa20d74a3f267e355220e98acf207b73caad3",
+      "title": "Senior Developer Python F/H",
+      "company": "NEXTGEN RH",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179161923W",
+      "posted_at": "2026-07-22T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-07-22T11:25:25.344828+00:00"
     }
   ]
 }
