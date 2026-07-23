@@ -1946,6 +1946,28 @@
       "source": "apec",
       "score": 2.0,
       "created_at": "2026-07-22T11:25:25.344828+00:00"
+    },
+    {
+      "url_hash": "66d220878c640412f748377e850210f9c5943305",
+      "title": "Développeur Python Expert Gitlab F/H",
+      "company": "Hellowork",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179167343W",
+      "posted_at": "2026-07-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-23T11:24:17.126214+00:00"
+    },
+    {
+      "url_hash": "9c0eff4460e8ce0fb02552b4b7b32b0fdce64f78",
+      "title": "Développeur Python Expert Gitlab H/F",
+      "company": "Astek",
+      "location": "Paris 1er - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81581171.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-07-23T11:24:17.126230+00:00"
     }
   ]
 }
