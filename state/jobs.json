@@ -2078,6 +2078,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-07-27T17:42:02.897076+00:00"
+    },
+    {
+      "url_hash": "d8a3e5bd05e742833569a3f23335688c2e6d2f9f",
+      "title": "Développeur Python Angular F/H",
+      "company": "Hellowork",
+      "location": "Paris 08 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179191420W",
+      "posted_at": "2026-07-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-28T11:33:55.499095+00:00"
+    },
+    {
+      "url_hash": "b0ea9f34782a98a2c2c8f0586d725d24672e137c",
+      "title": "Développeur Full Stack IA / Python Senior F/H",
+      "company": "ALPHEA CONSEIL",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179192762W",
+      "posted_at": "2026-07-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-07-28T11:33:55.499107+00:00"
+    },
+    {
+      "url_hash": "a61a667f526d5c76bfa5daf0b322bcbfb7c3c121",
+      "title": "Développeur(se) Python/Devops - Services Financiers - Paris",
+      "company": "Sopra Steria",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/sopra-steria/jobs/developpeur-se-python-devops-services-financiers-paris_paris_SS_0W1qGkG",
+      "posted_at": "2026-07-27T22:06:35+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-07-28T11:33:55.499113+00:00"
     }
   ]
 }
