@@ -2133,6 +2133,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-07-30T11:28:48.704860+00:00"
+    },
+    {
+      "url_hash": "5cbdb11e502c16108251e8d8434289778f51b49d",
+      "title": "Développeur Back-end Python F/H",
+      "company": "NEXTGEN RH",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179205980W",
+      "posted_at": "2026-07-30T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-07-30T13:45:55.375383+00:00"
+    },
+    {
+      "url_hash": "3cdac4a9df83280c8bf0eacaeda3c643ed30eb45",
+      "title": "Développeur Python/Angular Senior F/H",
+      "company": "NEXTON",
+      "location": "Paris 02 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179205772W",
+      "posted_at": "2026-07-30T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-07-30T13:45:55.375395+00:00"
     }
   ]
 }
