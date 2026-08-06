@@ -2265,6 +2265,28 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-08-05T11:36:37.478826+00:00"
+    },
+    {
+      "url_hash": "3dfa683c806bd1d1feed459af234ba168311b266",
+      "title": "DEVELOPPEUR / DEVELOPPEUSE Data & IA (Python / Django) F/H",
+      "company": "Qualibat",
+      "location": "Paris 16 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179206960W",
+      "posted_at": "2026-08-06T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-08-06T11:40:25.549830+00:00"
+    },
+    {
+      "url_hash": "ea00469f10d0e9ffaf0592132266d0856daa0640",
+      "title": "Développeur Python R&D Practice se Margo H/F",
+      "company": null,
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82031267.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-08-06T11:40:25.549855+00:00"
     }
   ]
 }
