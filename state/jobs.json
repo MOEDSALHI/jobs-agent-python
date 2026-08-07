@@ -2287,6 +2287,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-08-06T11:40:25.549855+00:00"
+    },
+    {
+      "url_hash": "c0b809c8a189fdfaa9ae3f290f5810641d9ef8a9",
+      "title": "Développeur Senior Python / Django F/H",
+      "company": "DECASOFT",
+      "location": "Saint-Denis - 93 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179239242W",
+      "posted_at": "2026-08-06T00:00:00+00:00",
+      "source": "apec",
+      "score": 3.0,
+      "created_at": "2026-08-07T10:25:18.820260+00:00"
+    },
+    {
+      "url_hash": "39d75e02676462178d1689ef91566a8165591915",
+      "title": "Développeur Python - Paris H/F",
+      "company": "Approach People Recruitment",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82108642.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-08-07T10:25:18.820275+00:00"
     }
   ]
 }
