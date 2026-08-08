@@ -2320,6 +2320,28 @@
       "source": "hellowork",
       "score": 3.0,
       "created_at": "2026-08-07T16:53:32.255988+00:00"
+    },
+    {
+      "url_hash": "b83fc306d27d61b26f152d2d09f265f7e4d9e0a8",
+      "title": "Développeur Fullstack (Python-React) F/H",
+      "company": "TEAMIS",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179245984W",
+      "posted_at": "2026-08-08T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-08-08T10:02:22.053955+00:00"
+    },
+    {
+      "url_hash": "6bff5e56870c22534b97292d043165abbbae6b7b",
+      "title": "Développeur Fullstack Python-React H/F",
+      "company": "Team.is",
+      "location": "Paris 1er - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82159375.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-08-08T10:02:22.053978+00:00"
     }
   ]
 }
