@@ -2342,6 +2342,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-08-08T10:02:22.053978+00:00"
+    },
+    {
+      "url_hash": "9ace6434396c12d45f3ae99f3f8431b2407e7e94",
+      "title": "Développeur Fullstack (Python-React) F/H",
+      "company": "Meteojob",
+      "location": "Paris 09 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179248101W",
+      "posted_at": "2026-08-10T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-08-10T10:42:44.215641+00:00"
+    },
+    {
+      "url_hash": "81b8a8bc3c4a3f1a2b543c23367c9a152f0ffd85",
+      "title": "Développeur Python Senior - Automatisation & Architecture Backend F/H",
+      "company": "Hellowork",
+      "location": "Paris 02 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179249316W",
+      "posted_at": "2026-08-10T00:00:00+00:00",
+      "source": "apec",
+      "score": 3.0,
+      "created_at": "2026-08-10T10:42:44.215653+00:00"
     }
   ]
 }
