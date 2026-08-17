@@ -2419,6 +2419,28 @@
       "source": "apec",
       "score": 2.0,
       "created_at": "2026-08-17T10:04:33.499326+00:00"
+    },
+    {
+      "url_hash": "4147b4a5c74d2bb108c9350699c9cbd972c79ee7",
+      "title": "Développeur Python expert Gitlab F/H",
+      "company": "ASTEK",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179273810W",
+      "posted_at": "2026-08-17T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-08-17T16:24:47.426898+00:00"
+    },
+    {
+      "url_hash": "7bf1956b10e66cbe3b79a63a375c6d0a33999b00",
+      "title": "Architecte Data & IA - Senior",
+      "company": "Saegus",
+      "location": "Paris · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/saegus/jobs/architecte-data-ia-senior_paris_SAEGU_QYwQdLl",
+      "posted_at": "2026-08-17T13:42:31+00:00",
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-08-17T16:24:47.426911+00:00"
     }
   ]
 }
