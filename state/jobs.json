@@ -2474,6 +2474,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-08-21T09:59:36.367850+00:00"
+    },
+    {
+      "url_hash": "5213e6f492a4deffff1f06944c8670abdbcb982c",
+      "title": "DEVELOPPEUR .NET ET PYTHON – PARIS LA DÉFENSE F/H",
+      "company": "ORSYS",
+      "location": "Puteaux - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179293583W",
+      "posted_at": "2026-08-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-08-21T16:31:40.647496+00:00"
+    },
+    {
+      "url_hash": "826dde3b0d2278ca3a196d134d87cf5dafe2d1ed",
+      "title": "Developpeur .Net et Python - Paris la Défense H/F",
+      "company": "Orsys SAS",
+      "location": "Paris - 75 · CDI · Télétravail occasionnel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82560435.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-08-21T16:31:40.647522+00:00"
     }
   ]
 }
