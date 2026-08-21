@@ -2441,6 +2441,39 @@
       "source": "wttj",
       "score": 1.0,
       "created_at": "2026-08-17T16:24:47.426911+00:00"
+    },
+    {
+      "url_hash": "38c88d510b30669a12031848ba26598c7fac6bd9",
+      "title": "Développeur Full Stack Senior Python / React - Assurance IARD F/H",
+      "company": "MICHAEL PAGE INTERNATIONAL FRANCE",
+      "location": "Nanterre - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179289552W",
+      "posted_at": "2026-08-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-08-21T09:59:36.367810+00:00"
+    },
+    {
+      "url_hash": "26dd52743228345c90c3cd518645c4fec837bbc9",
+      "title": "Développeur Full Stack Senior Python - React - Assurance IARD H/F",
+      "company": "Michael Page",
+      "location": "Nanterre - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82533012.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-08-21T09:59:36.367843+00:00"
+    },
+    {
+      "url_hash": "67fe5b16ba622175520a6b33732e4bbd54c7dbfd",
+      "title": "Développeur Python 2- d'Expérience H/F",
+      "company": "Visian",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82525472.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-08-21T09:59:36.367850+00:00"
     }
   ]
 }
