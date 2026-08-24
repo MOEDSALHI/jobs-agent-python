@@ -2518,6 +2518,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-08-22T09:49:44.917482+00:00"
+    },
+    {
+      "url_hash": "2f22d93624fbede18f4492c9466bba7d1996f92d",
+      "title": "Développeur Full Stack Senior Python / React - Assurance IARD F/H",
+      "company": "Meteojob",
+      "location": "Nanterre - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179296468W",
+      "posted_at": "2026-08-24T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-08-24T10:10:15.932458+00:00"
+    },
+    {
+      "url_hash": "caffa5940f897dbeefaa1e3a1982a8de2082119e",
+      "title": "Senior Developer Python F/H",
+      "company": "NEXTGEN RH",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179298543W",
+      "posted_at": "2026-08-24T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-08-24T10:10:15.932470+00:00"
+    },
+    {
+      "url_hash": "9b22f61c77277fe7799bcdeb2032d407147192ed",
+      "title": "Développeur Python - Appétence DevOps - Télécom - Paris H/F",
+      "company": "Easy Partner",
+      "location": "Paris - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81635752.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-08-24T10:10:15.932501+00:00"
     }
   ]
 }
