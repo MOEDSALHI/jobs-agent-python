@@ -2562,6 +2562,28 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-08-24T16:35:08.403523+00:00"
+    },
+    {
+      "url_hash": "f9bd2271bf6434a9a6c065a695cd114640671e14",
+      "title": "Développeur(se) Python / IA F/H",
+      "company": "MIND7 CONSULTING",
+      "location": "Paris 08 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179314733W",
+      "posted_at": "2026-08-26T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-08-26T10:05:02.155377+00:00"
+    },
+    {
+      "url_hash": "d9ae84bb0ce6a6a95dc4f26bea6f217d4904cf88",
+      "title": "Développeur(se) Python / IA (F/H)",
+      "company": "Mind7 Consulting",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/mind7/jobs/developpeur-se-python-ia-f-h_paris",
+      "posted_at": "2026-08-26T09:22:15+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-08-26T10:05:02.155390+00:00"
     }
   ]
 }
