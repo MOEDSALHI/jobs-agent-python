@@ -2584,6 +2584,39 @@
       "source": "wttj",
       "score": 2.5,
       "created_at": "2026-08-26T10:05:02.155390+00:00"
+    },
+    {
+      "url_hash": "522e1f1fe1b8960545e61bd98860c68c433b4baf",
+      "title": "Développeur(se) Python / IA F/H",
+      "company": "Welcome to the Jungle",
+      "location": "Paris 08 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179318262W",
+      "posted_at": "2026-08-27T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-08-27T19:56:01.942891+00:00"
+    },
+    {
+      "url_hash": "cc45e50d918031f33e6b0a88e9457235040c86b1",
+      "title": "Développeur Full Stack IA - Python Senior - Maisons-Alfort H/F",
+      "company": "Alphea Conseil",
+      "location": "Maisons-Alfort - 94 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82728572.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-08-27T19:56:01.942925+00:00"
+    },
+    {
+      "url_hash": "74e52729a096f05851f83f1b6a61352b170cc685",
+      "title": "Ingénieur Fullstack Senior ASP.Net Core - Python - React H/F",
+      "company": "Team.is",
+      "location": "Paris 20e - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82730242.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-08-27T19:56:01.942931+00:00"
     }
   ]
 }
