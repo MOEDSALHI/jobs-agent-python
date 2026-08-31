@@ -2628,6 +2628,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-08-28T20:58:59.255482+00:00"
+    },
+    {
+      "url_hash": "959c4607cf8d18ce11e59800b6131692281fae0e",
+      "title": "Développeur Python IA F/H",
+      "company": "IPPON Technologies",
+      "location": "Paris 16 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179302642W",
+      "posted_at": "2026-08-31T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-08-31T17:09:45.456549+00:00"
+    },
+    {
+      "url_hash": "7430624cef83cb61748e48a9af0c09ef83f08ea4",
+      "title": "Développeur Python/QA F/H",
+      "company": "3DS OUTSCALE",
+      "location": "Saint-Cloud - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179334000W",
+      "posted_at": "2026-08-31T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-08-31T17:09:45.456561+00:00"
     }
   ]
 }
