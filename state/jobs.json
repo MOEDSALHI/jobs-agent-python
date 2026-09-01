@@ -2661,6 +2661,39 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-08-31T18:37:25.297838+00:00"
+    },
+    {
+      "url_hash": "7092483974e670fa2d50af06fae5e7502db28716",
+      "title": "Développeur Python Senior F/H",
+      "company": "OLCANI",
+      "location": "Paris 13 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179341604W",
+      "posted_at": "2026-09-01T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-01T14:14:31.126704+00:00"
+    },
+    {
+      "url_hash": "9aea72f3a109d37d55e66fd66e35646e1f5ca1b4",
+      "title": "Développeur Python Senior H/F",
+      "company": "Olcani",
+      "location": "Paris 13e - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82893783.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-09-01T14:14:31.126721+00:00"
+    },
+    {
+      "url_hash": "a196ff112a7d73f627d8722636efad651bf3865d",
+      "title": "Développeur Python Flask & Automatisation de Tests H/F",
+      "company": "Astek",
+      "location": "Paris 1er - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/80389730.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-01T14:14:31.126730+00:00"
     }
   ]
 }
