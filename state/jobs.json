@@ -2716,6 +2716,50 @@
       "source": "apec",
       "score": 2.0,
       "created_at": "2026-09-02T13:47:22.736020+00:00"
+    },
+    {
+      "url_hash": "5ce6fd5662f4de4ba4e4f7e43faa8fc89285327f",
+      "title": "Développeur Platform Data & Python F/H",
+      "company": "NEXTON",
+      "location": "Paris 02 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179353092W",
+      "posted_at": "2026-09-02T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-02T15:51:16.905999+00:00"
+    },
+    {
+      "url_hash": "8ae1860407244303995ad382bcf1b7a6152be2eb",
+      "title": "Développeur Logiciel Applicatif Python Senior F/H",
+      "company": "TRISKELL CONSULTING",
+      "location": "Saclay - 91 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179354005W",
+      "posted_at": "2026-09-02T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-02T15:51:16.906007+00:00"
+    },
+    {
+      "url_hash": "f0d4e44398ba79fbabe252114f495815c917be2b",
+      "title": "Développeur Python IA H/F",
+      "company": "Ippon Technologies",
+      "location": "Paris - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82958962.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-02T15:51:16.906015+00:00"
+    },
+    {
+      "url_hash": "c4ead7b948f00b85d781f831525167508a8dace3",
+      "title": "Dévloppeur Java - Python Openshift Senior H/F",
+      "company": "NOEMI Conseil",
+      "location": "Île-de-France · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82956991.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-09-02T15:51:16.906034+00:00"
     }
   ]
 }
