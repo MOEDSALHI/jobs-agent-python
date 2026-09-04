@@ -2837,6 +2837,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-03T15:38:48.741547+00:00"
+    },
+    {
+      "url_hash": "739e558244c28dcb50b9bba66687c720074f9096",
+      "title": "Développeur Python F/H",
+      "company": "Hellowork",
+      "location": "Vélizy-Villacoublay - 78 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179365993W",
+      "posted_at": "2026-09-04T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-04T13:39:16.103769+00:00"
+    },
+    {
+      "url_hash": "9ba9e0e897fab6b32e6e6cd4a29fe0d2dbf88ec1",
+      "title": "Développeur Python/ReactJs/BigQuery/ Kafka F/H",
+      "company": "CATAMANIA",
+      "location": "Fontenay-sous-Bois - 94 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179368134W",
+      "posted_at": "2026-09-04T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-04T13:39:16.103781+00:00"
     }
   ]
 }
