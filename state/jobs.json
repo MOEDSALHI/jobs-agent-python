@@ -2914,6 +2914,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-05T12:54:20.796532+00:00"
+    },
+    {
+      "url_hash": "c3ab148fc9282c2ccd6287eff3d89c963ca99e44",
+      "title": "Développeur API (Python) F/H",
+      "company": "CARAZ",
+      "location": "Paris 13 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179376141W",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-07T15:09:10.902360+00:00"
+    },
+    {
+      "url_hash": "b762bf5a61ee78e48bf5cf85209c0d496eadd8d0",
+      "title": "Développeur Fullstack (Python-React) F/H",
+      "company": "Meteojob",
+      "location": "Paris 09 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179373284W",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-07T15:09:10.902372+00:00"
+    },
+    {
+      "url_hash": "ed74675da5b58d8883d2c1c7b4f0a863887a4ac0",
+      "title": "Fullstack Engineer Python/ React F/H",
+      "company": "CARAZ",
+      "location": "Paris 10 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179375990W",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-07T15:09:10.902379+00:00"
     }
   ]
 }
