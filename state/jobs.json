@@ -2947,6 +2947,72 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-09-07T15:09:10.902379+00:00"
+    },
+    {
+      "url_hash": "6d3feb397c0df43f9c826d87752391e1f4d14b63",
+      "title": "Développeur Python F/H",
+      "company": "cadremploi",
+      "location": "Vélizy-Villacoublay - 78 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179379043W",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-07T17:03:50.435094+00:00"
+    },
+    {
+      "url_hash": "0641ba16e586bfbfbc17fe088068430637208921",
+      "title": "Développeur Python-Linux-SQL F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179379342W",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-07T17:03:50.435105+00:00"
+    },
+    {
+      "url_hash": "ab2babb458914156be08fcd71fa5c47bd5c3503f",
+      "title": "Développeur Python/ReactJs/BigQuery/ Kafka F/H",
+      "company": "cadremploi",
+      "location": "Issy-les-Moulineaux - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179379276W",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-07T17:03:50.435112+00:00"
+    },
+    {
+      "url_hash": "34483f7927b43a488a4de2742bb673fca20bf465",
+      "title": "Développeur Big Data Hadoop/PySpark/Python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179379165W",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-07T17:03:50.435117+00:00"
+    },
+    {
+      "url_hash": "5a56bfb53cbfe608839d74de02455c209c8c2596",
+      "title": "Commando-Ingénieur financier Produits structurés / Python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179379831W",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-07T17:03:50.435122+00:00"
+    },
+    {
+      "url_hash": "a917f4d07b887d727aad87d0cf64144ca189e008",
+      "title": "Developpeur Python H/F",
+      "company": "Kent",
+      "location": "Noisy-le-Grand - 93 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83120693.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-07T17:03:50.435154+00:00"
     }
   ]
 }
