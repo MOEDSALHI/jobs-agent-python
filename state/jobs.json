@@ -3013,6 +3013,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-07T17:03:50.435154+00:00"
+    },
+    {
+      "url_hash": "d38871f419470d57e3c9b103142a9db81eb04e85",
+      "title": "Développeur backend node.js python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179383923W",
+      "posted_at": "2026-09-08T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-08T13:45:35.387689+00:00"
+    },
+    {
+      "url_hash": "fcbf9aabc45bbfb5c2870043cd5480866473e3ef",
+      "title": "Développeur Full Stack Python / Angular F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179383979W",
+      "posted_at": "2026-09-08T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-08T13:45:35.387700+00:00"
+    },
+    {
+      "url_hash": "8fb7713c37ad09ccce77e2db0c41ba472013ff3e",
+      "title": "Ingénieur(e) en développement Python F/H",
+      "company": "ADENTIS",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179384685W",
+      "posted_at": "2026-09-08T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-08T13:45:35.387708+00:00"
     }
   ]
 }
