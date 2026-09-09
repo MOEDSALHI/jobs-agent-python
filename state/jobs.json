@@ -3046,6 +3046,72 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-09-08T13:45:35.387708+00:00"
+    },
+    {
+      "url_hash": "700738207efbe39fce572ecea66c6818dbaa67af",
+      "title": "Développeur Python F/H",
+      "company": "RANDSTAD DIGITAL FRANCE",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179393760W",
+      "posted_at": "2026-09-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-09T13:49:44.514428+00:00"
+    },
+    {
+      "url_hash": "662bf47dfe28c83f3999a09753831db9cddc4175",
+      "title": "Développeur python fastapi ia F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179391831W",
+      "posted_at": "2026-09-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-09T13:49:44.514442+00:00"
+    },
+    {
+      "url_hash": "21cad4303354313d63859ae052b2ade2de54087b",
+      "title": "Développeur Back-end Python F/H",
+      "company": "Meteojob",
+      "location": "Paris 09 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179388779W",
+      "posted_at": "2026-09-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-09T13:49:44.514448+00:00"
+    },
+    {
+      "url_hash": "0de30f69d7a70c2e697a1ae882f0c3835ead3334",
+      "title": "Data Analyst / Développeur Python & BI F/H",
+      "company": "NEXTON",
+      "location": "Paris 02 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179393203W",
+      "posted_at": "2026-09-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-09T13:49:44.514453+00:00"
+    },
+    {
+      "url_hash": "2a33fdd64e61b41d59e1843c1fb397b75e6e08e3",
+      "title": "Tech Lead / Expert Architecture Logicielle – Python / Java / DevSecOps F/H",
+      "company": "cadremploi",
+      "location": "Clichy - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179391926W",
+      "posted_at": "2026-09-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-09T13:49:44.514461+00:00"
+    },
+    {
+      "url_hash": "1e60baa2e6f38e2195044cac9f642915f22a4a0e",
+      "title": "BA Référentiels & Data - Migration ETL Informatica vers Python F/H",
+      "company": "CLOSTERA",
+      "location": "Paris 09 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179393580W",
+      "posted_at": "2026-09-09T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-09T13:49:44.514466+00:00"
     }
   ]
 }
