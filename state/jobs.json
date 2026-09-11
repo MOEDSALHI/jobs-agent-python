@@ -3123,6 +3123,39 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-09-10T18:57:49.793606+00:00"
+    },
+    {
+      "url_hash": "c3bb0192486d50cd7c4a3d1d7053dd11234150c1",
+      "title": "Développeur Python confirmé F/H",
+      "company": "ANEO",
+      "location": "Nanterre - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179406194W",
+      "posted_at": "2026-09-11T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-11T13:42:45.320336+00:00"
+    },
+    {
+      "url_hash": "0f84534d9f48c4a7a79002588713eb053caf5adc",
+      "title": "Développeur Full Stack Senior Python / Vue.js F/H",
+      "company": "DIANE CONSULTING",
+      "location": "Saint-Denis - 93 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179406098W",
+      "posted_at": "2026-09-11T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-11T13:42:45.320350+00:00"
+    },
+    {
+      "url_hash": "f4430d1dfac3ee3d232168525469e9bf10e4b606",
+      "title": "Ingénieur Fullstack Senior ASP.Net Core - Python - React H/F",
+      "company": "Team.is",
+      "location": "Paris 20e - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83271972.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-09-11T13:42:45.320380+00:00"
     }
   ]
 }
