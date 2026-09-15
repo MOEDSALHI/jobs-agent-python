@@ -3189,6 +3189,28 @@
       "source": "apec",
       "score": 3.0,
       "created_at": "2026-09-14T15:58:35.051847+00:00"
+    },
+    {
+      "url_hash": "f3c81ef34598083ea02d6f35343d73de02730fd2",
+      "title": "Développeur Python / Angular F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179422608W",
+      "posted_at": "2026-09-15T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-15T14:24:34.329162+00:00"
+    },
+    {
+      "url_hash": "3d2ff2f5029558414edf4257791d27f535be1308",
+      "title": "Développeur Backend Python / GCP Confirmé F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179423491W",
+      "posted_at": "2026-09-15T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-15T14:24:34.329176+00:00"
     }
   ]
 }
