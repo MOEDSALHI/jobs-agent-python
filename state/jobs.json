@@ -3222,6 +3222,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-15T16:03:57.987091+00:00"
+    },
+    {
+      "url_hash": "cdfcd90bc9c655d5ca94624af5679a6cf156e6a8",
+      "title": "Développeur Python F/H",
+      "company": "Hellowork",
+      "location": "Puteaux - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179429326W",
+      "posted_at": "2026-09-16T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-16T14:17:10.433700+00:00"
+    },
+    {
+      "url_hash": "815b4a4f1ca5c86961d83a1e49b4cbbefe8fc4dc",
+      "title": "Développeur Python IA - Ml - Agentic Coding H/F",
+      "company": "Kaiman Services",
+      "location": "Montrouge - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83436604.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-16T14:17:10.433719+00:00"
+    },
+    {
+      "url_hash": "67eab15158e96bc30d84a1f76fc5a311e2a8bd2e",
+      "title": "Développeur Python - Django H/F",
+      "company": "Groupagora",
+      "location": "Île-de-France · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83425739.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-09-16T14:17:10.433747+00:00"
     }
   ]
 }
