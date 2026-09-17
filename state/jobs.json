@@ -3255,6 +3255,72 @@
       "source": "hellowork",
       "score": 2.0,
       "created_at": "2026-09-16T14:17:10.433747+00:00"
+    },
+    {
+      "url_hash": "16b362c04f4166845031ed00a0f721723e7b2f55",
+      "title": "Développeur Python – AI-Native Developer / IT Innovation F/H",
+      "company": "AGH CONSULTING",
+      "location": "Montrouge - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179436127W",
+      "posted_at": "2026-09-17T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-17T14:23:10.508916+00:00"
+    },
+    {
+      "url_hash": "0763a2dbdc8d1ba79c1cc83850fb906064a52bef",
+      "title": "Développeur Python expérience IA / ML agentic coding F/H",
+      "company": "cadremploi",
+      "location": "Montrouge - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179433434W",
+      "posted_at": "2026-09-17T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-17T14:23:10.508924+00:00"
+    },
+    {
+      "url_hash": "17b3134a67a0999649e5c56d9669a4d6c636a190",
+      "title": "Développeur Pythodéveloppeur IA Pythondéveloppeur Python IA - Agentic F/H",
+      "company": "Hellowork",
+      "location": "Montrouge - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179434447W",
+      "posted_at": "2026-09-17T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-17T14:23:10.508929+00:00"
+    },
+    {
+      "url_hash": "4677c25e8d2be1783fd8754831ed5cf40f623bce",
+      "title": "Lead python ia F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179433201W",
+      "posted_at": "2026-09-17T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-17T14:23:10.508933+00:00"
+    },
+    {
+      "url_hash": "a1e337a8971d49fc87ef6ea5db6dc12308e2063d",
+      "title": "Data Scientist",
+      "company": "CLASQUIN",
+      "location": "Lyon · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/clasquin/jobs/data-scientist-junior",
+      "posted_at": "2026-09-17T13:41:16+00:00",
+      "source": "wttj",
+      "score": 1.5,
+      "created_at": "2026-09-17T14:23:10.508937+00:00"
+    },
+    {
+      "url_hash": "609101a1fdb279222702deb83d78c0c5ead56e20",
+      "title": "Développeur Python - Ai-Native Developer - IT Innovation H/F",
+      "company": "AGH Consulting",
+      "location": "Montrouge - 92 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83469612.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-17T14:23:10.508949+00:00"
     }
   ]
 }
