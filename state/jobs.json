@@ -395,6 +395,116 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-17T19:33:16.990617+00:00"
+    },
+    {
+      "url_hash": "b8e3d7f4bf4ee8fce09e439d820aac3e999e39ed",
+      "title": "Développeur Python-Linux-SQL F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179441556W",
+      "posted_at": "2026-09-18T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-18T13:43:23.486504+00:00"
+    },
+    {
+      "url_hash": "b4e298caf149fe3ac89ac9da1d35a0393c3ec7b8",
+      "title": "Développeur Python Senior - Calcul intensif F/H",
+      "company": "cadremploi",
+      "location": "Asnières-sur-Seine - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179441405W",
+      "posted_at": "2026-09-18T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-18T13:43:23.486515+00:00"
+    },
+    {
+      "url_hash": "2d05f19f7bda125e7461d963c66ce28b11e8d7e7",
+      "title": "Développeur Big Data Hadoop/PySpark/Python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179441403W",
+      "posted_at": "2026-09-18T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-18T13:43:23.486522+00:00"
+    },
+    {
+      "url_hash": "f233283af28e8d7a1defa5017862d8b38ce33f32",
+      "title": "Développeur Python - Ai-Native Developer - IT Innovation F/H",
+      "company": "Hellowork",
+      "location": "Montrouge - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179442764W",
+      "posted_at": "2026-09-18T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-18T13:43:23.486528+00:00"
+    },
+    {
+      "url_hash": "08df9f34c4f4b193280790e3b6270f5dc5f1df28",
+      "title": "Un Testeur technique (Python / JAVA / Equipe DevOps) - Ex Développeur sur Pa F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179441253W",
+      "posted_at": "2026-09-18T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-18T13:43:23.486534+00:00"
+    },
+    {
+      "url_hash": "13d3834b33ee1b82f708b3cd4c2bac0557cc4c52",
+      "title": "Commando-Ingénieur financier Produits structurés / Python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179441431W",
+      "posted_at": "2026-09-18T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-18T13:43:23.486538+00:00"
+    },
+    {
+      "url_hash": "9521d1d37eea3c96b97577b9acb8f8c91d21e751",
+      "title": "Senior Python Expert — Secteur bancaire F/H",
+      "company": "cadremploi",
+      "location": "Levallois-Perret - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179441321W",
+      "posted_at": "2026-09-18T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-18T13:43:23.486542+00:00"
+    },
+    {
+      "url_hash": "83006d69c0ee37b3b8fa504566b59d4f4f021ab1",
+      "title": "Développeur Fullstack Python / React - SaaS Healthtech (H/F)",
+      "company": "Licorne Society",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/licorne-society/jobs/developpeur-fullstack-python-react-saas-healthtech-h-f_paris",
+      "posted_at": "2026-09-18T09:13:15+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-09-18T13:43:23.486548+00:00"
+    },
+    {
+      "url_hash": "e5b12621c1c8cadf7309bf42f5cb9e0b4c5cf55c",
+      "title": "Développeur Python H/F",
+      "company": "Meritis",
+      "location": "Paris 8e - 75 · CDI · Télétravail occasionnel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/70757988.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-18T13:43:23.486555+00:00"
+    },
+    {
+      "url_hash": "2ce355d5c551d84938136d8e49e06f35642f4380",
+      "title": "Lead Developer Python - IA Générative - Agents IA H/F",
+      "company": "LOMEGARD",
+      "location": "Île-de-France · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83525281.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-09-18T13:43:23.486567+00:00"
     }
   ]
 }
