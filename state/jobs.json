@@ -571,6 +571,149 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-20T15:16:50.581824+00:00"
+    },
+    {
+      "url_hash": "e293df2a0387cb9e25322d5c029b652fdebb5884",
+      "title": "Développeur Python F/H",
+      "company": "cadremploi",
+      "location": "Montreuil - 93 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179450663W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-21T15:59:56.582361+00:00"
+    },
+    {
+      "url_hash": "2f410ae5fc6cacd2d172d2f7c3c68016537d28e5",
+      "title": "Lead Développeur Python/GCP F/H",
+      "company": "CATAMANIA",
+      "location": "Fontenay-sous-Bois - 94 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179452894W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-21T15:59:56.582373+00:00"
+    },
+    {
+      "url_hash": "31a556059f3f14a7770bb5de6f51db0902254081",
+      "title": "Développeur Python IA F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179449894W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-21T15:59:56.582379+00:00"
+    },
+    {
+      "url_hash": "68a017db5cc94860c2867e8c26577231492dc27f",
+      "title": "Développeur Python - LLM/RAG - Paris F/H",
+      "company": "WEBNET",
+      "location": "Paris 15 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179454218W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-21T15:59:56.582384+00:00"
+    },
+    {
+      "url_hash": "016da74a7a03d444b320f73d773f2a8fab339547",
+      "title": "Développeur Python/Django junior F/H",
+      "company": "RHSELECT",
+      "location": "Bobigny - 93 · CDD",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179456590W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-21T15:59:56.582390+00:00"
+    },
+    {
+      "url_hash": "d2aed6d4f6e8468406c0ed5c2418718c2c27ed12",
+      "title": "DEVELOPPEUR .NET ET PYTHON – PARIS LA DÉFENSE F/H",
+      "company": "ORSYS",
+      "location": "Puteaux - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179453215W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-21T15:59:56.582395+00:00"
+    },
+    {
+      "url_hash": "a167ab12ab43e47dc3895985f431a410c6d36933",
+      "title": "Développeur Python confirmé — Migration ETL vers Python, données de référenc F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179450476W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-21T15:59:56.582400+00:00"
+    },
+    {
+      "url_hash": "2c9e5c9146a475b5e9eee1931bf0c72d1ba5a270",
+      "title": "Développeur Python-Linux-SQL F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179450724W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-21T15:59:56.582404+00:00"
+    },
+    {
+      "url_hash": "fa19f390a84da34c6fd74c5711b53ca04b52e177",
+      "title": "Développeur Full Stack Senior Python / React - Assurance IARD F/H",
+      "company": "MICHAEL PAGE INTERNATIONAL FRANCE",
+      "location": "Nanterre - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179449695W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-21T15:59:56.582408+00:00"
+    },
+    {
+      "url_hash": "1e3de6c19877d89ce963e8381b870b726797b8ac",
+      "title": "Développeur Python – AI-Native Developer / IT Innovation F/H",
+      "company": "cadremploi",
+      "location": "Montrouge - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179449958W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-21T15:59:56.582413+00:00"
+    },
+    {
+      "url_hash": "ae520b7c04c572b1a98afc20953ef5ff7a3e85fd",
+      "title": "Commando-Ingénieur financier Produits structurés / Python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179450135W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-21T15:59:56.582419+00:00"
+    },
+    {
+      "url_hash": "435896f23d356f98306a4aca4e47d1ba62a23115",
+      "title": "Lead Developer Python / IA Générative – Agents IA F/H",
+      "company": "cadremploi",
+      "location": "Boulogne-Billancourt - 92 · CDD",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179450671W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-21T15:59:56.582424+00:00"
+    },
+    {
+      "url_hash": "56e97cdd91d2c43185662bcf1cd8de0b1530fce7",
+      "title": "Data engineer python aws apache F/H",
+      "company": "cadremploi",
+      "location": "La Garenne-Colombes - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179450267W",
+      "posted_at": "2026-09-21T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-21T15:59:56.582428+00:00"
     }
   ]
 }
