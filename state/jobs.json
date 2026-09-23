@@ -824,6 +824,83 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-22T19:35:56.201737+00:00"
+    },
+    {
+      "url_hash": "329ee993ffc3328438f58cffc45cd201e915a3f9",
+      "title": "Développeur Python F/H",
+      "company": "Banque de France",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179470970W",
+      "posted_at": "2026-09-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-23T14:20:22.505199+00:00"
+    },
+    {
+      "url_hash": "39422cb2c664ff10955d9049660b38c8d58b1e8f",
+      "title": "Développeur Python- Outils d'essais et coordination technique Militair - F/H",
+      "company": "CO-MARTIN",
+      "location": "Le Plessis-Robinson - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179465416W",
+      "posted_at": "2026-09-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-23T14:20:22.505209+00:00"
+    },
+    {
+      "url_hash": "de094de1cfd935fd41d7d97870cb9474e3b98d60",
+      "title": "Developpeur .net et python – paris la défense F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179466410W",
+      "posted_at": "2026-09-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-23T14:20:22.505215+00:00"
+    },
+    {
+      "url_hash": "6847dfa3a19230e25040c52329ae06a8f73bbf71",
+      "title": "Développeur Python Confirmé – Data / ETL / Référentiels F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDD",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179466622W",
+      "posted_at": "2026-09-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-23T14:20:22.505218+00:00"
+    },
+    {
+      "url_hash": "99480bc0e52f75bac3efa9d9cfa28b1a6d32a72c",
+      "title": "Développeur Java/Python - MCP API & Agents IA F/H",
+      "company": "Meteojob",
+      "location": "Paris 09 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179467212W",
+      "posted_at": "2026-09-23T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-23T14:20:22.505223+00:00"
+    },
+    {
+      "url_hash": "26119df29cdf9abf75bd64d8963011dc5ad2e63a",
+      "title": "Développeur(se) Python/Devops - Services Financiers - Paris",
+      "company": "Sopra Steria",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/sopra-steria/jobs/developpeur-se-python-devops-services-financiers-paris_paris_SS_1dbkY2P",
+      "posted_at": "2026-09-22T22:07:01+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-09-23T14:20:22.505228+00:00"
+    },
+    {
+      "url_hash": "bb27fde12e8f4ea0453c4c3e04409a35fc911f21",
+      "title": "Développeur/développeuse Full stack Django/react Suite territoriale",
+      "company": "beta.gouv.fr",
+      "location": "Paris · Freelance",
+      "url": "https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv/jobs/developpeur-developpeuse-full-stack-django-react-suite-territoriale_paris",
+      "posted_at": "2026-09-23T10:33:50+00:00",
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-09-23T14:20:22.505232+00:00"
     }
   ]
 }
