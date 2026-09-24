@@ -912,6 +912,61 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-23T15:56:57.584007+00:00"
+    },
+    {
+      "url_hash": "ddd5e988cc3fcca3a12b18d3f5bfe4f1242e71fa",
+      "title": "Développeur(se) Python Data F/H",
+      "company": "OREL SERVICES FRANCE",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179476118W",
+      "posted_at": "2026-09-24T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-24T14:18:01.446288+00:00"
+    },
+    {
+      "url_hash": "1f394d465552315462dcc88f86454419f890ad39",
+      "title": "Développeur Back-end Python F/H",
+      "company": "NEXTGEN RH",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179475924W",
+      "posted_at": "2026-09-24T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-24T14:18:01.446295+00:00"
+    },
+    {
+      "url_hash": "8e414aa0172681dada6f6094be785ee9886cef83",
+      "title": "Développeur C embarqué, Python, Java F/H",
+      "company": "CORSAIR SYSTEM",
+      "location": "Cergy - 95 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179476208W",
+      "posted_at": "2026-09-24T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-24T14:18:01.446298+00:00"
+    },
+    {
+      "url_hash": "1ea2ac445e3797adc36965f1ff298d454e183eca",
+      "title": "Développeur Python- Outils d'essais et coordination technique Militaire F/H",
+      "company": "cadremploi",
+      "location": "Le Plessis-Robinson - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179473575W",
+      "posted_at": "2026-09-24T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-24T14:18:01.446303+00:00"
+    },
+    {
+      "url_hash": "c92f576b657491cec3c4b4165d289d7ad839c37c",
+      "title": "Senior Developer Python F/H",
+      "company": "NEXTGEN RH",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179475922W",
+      "posted_at": "2026-09-24T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-24T14:18:01.446306+00:00"
     }
   ]
 }
