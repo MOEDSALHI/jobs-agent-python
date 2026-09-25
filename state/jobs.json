@@ -989,6 +989,94 @@
       "source": "apec",
       "score": 1.0,
       "created_at": "2026-09-24T19:48:56.390112+00:00"
+    },
+    {
+      "url_hash": "b4391a85d6419b6654f10b64c6ca21f7bb725a6a",
+      "title": "Développeur Python-Linux-SQL F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179480616W",
+      "posted_at": "2026-09-25T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-25T14:41:24.453501+00:00"
+    },
+    {
+      "url_hash": "6823c22cbddfac83c98f43d62effc852e8c952e5",
+      "title": "Développeur Python- Outils d'essais et coordination technique Militair - F/H",
+      "company": "CO-MARTIN",
+      "location": "Le Plessis-Robinson - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179479735W",
+      "posted_at": "2026-09-25T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-25T14:41:24.453514+00:00"
+    },
+    {
+      "url_hash": "c3122f2934d4158b816bcd2bb6134e33095382e8",
+      "title": "Développeur Big Data Hadoop/PySpark/Python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179480666W",
+      "posted_at": "2026-09-25T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-25T14:41:24.453523+00:00"
+    },
+    {
+      "url_hash": "70220211611c20ecab40fd67b622c51429a461e3",
+      "title": "Commando-Ingénieur financier Produits structurés / Python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179480615W",
+      "posted_at": "2026-09-25T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-25T14:41:24.453531+00:00"
+    },
+    {
+      "url_hash": "922318b76e30943223384ca2e4e3f2152567047b",
+      "title": "Tech Lead senior Java Spring Boot Python Azure F/H",
+      "company": "STEP UP",
+      "location": "Saint-Denis - 93 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179471928W",
+      "posted_at": "2026-09-25T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-25T14:41:24.453538+00:00"
+    },
+    {
+      "url_hash": "9369214c1ca696ba454d8709ad9ca36afaf2b6fa",
+      "title": "Backend developer (Java)",
+      "company": "PIXID",
+      "location": "Courbevoie · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/pixid/jobs/backend-developer-java_courbevoie_PIXID_yLzb0Wg",
+      "posted_at": "2026-09-25T07:19:50+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-09-25T14:41:24.453550+00:00"
+    },
+    {
+      "url_hash": "ce4376e2e86a9c61a4fd37f99ce0c9a5cd35797c",
+      "title": "Ingénieur Fullstack Senior ASP.Net Core - Python - React H/F",
+      "company": "Team.is",
+      "location": "Paris 20e - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83757783.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-09-25T14:41:24.453578+00:00"
+    },
+    {
+      "url_hash": "2e928c02fcb65625958b72b75ff2a5ec368093a7",
+      "title": "Data Engineer - Développeur Python H/F",
+      "company": "Octopus IT",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83729886.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-25T14:41:24.453586+00:00"
     }
   ]
 }
