@@ -1099,6 +1099,127 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-26T13:49:21.102821+00:00"
+    },
+    {
+      "url_hash": "dfabe6ee2124a411ee7dc0f95965eca73348d704",
+      "title": "Développeur Python-Linux-SQL F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179489817W",
+      "posted_at": "2026-09-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086128+00:00"
+    },
+    {
+      "url_hash": "dcd55b4b754cf3b55c30ab72c158caa68bc3085e",
+      "title": "Développeur Backend Python / GCP expérimenté – F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179490152W",
+      "posted_at": "2026-09-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 2.0,
+      "created_at": "2026-09-28T17:46:16.086140+00:00"
+    },
+    {
+      "url_hash": "ce64055ec9df963fd04c87d63cff66439b4522a9",
+      "title": "Développeur Python- Outils d'essais et coordination technique Militaire F/H",
+      "company": "VIVERIS",
+      "location": "Le Plessis-Robinson - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179496285W",
+      "posted_at": "2026-09-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086147+00:00"
+    },
+    {
+      "url_hash": "74c1158813caa88fa00c34716cb3aa691f936556",
+      "title": "Développeur Big Data Hadoop/PySpark/Python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179489870W",
+      "posted_at": "2026-09-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086152+00:00"
+    },
+    {
+      "url_hash": "10d60154cd2260646eff5566c18e7462e697b13d",
+      "title": "Ingénieur développeur embarqué C++ / Python - Autopilote drone F/H",
+      "company": "CTS Corporate",
+      "location": "Paris 10 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179495188W",
+      "posted_at": "2026-09-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086157+00:00"
+    },
+    {
+      "url_hash": "74a0784e0585518751aec764e1e2f2432db0a235",
+      "title": "Développeur Python- Outils d'essais et coordination technique Militaire F/H",
+      "company": "cadremploi",
+      "location": "Le Plessis-Robinson - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179490073W",
+      "posted_at": "2026-09-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086162+00:00"
+    },
+    {
+      "url_hash": "a6eb21d611edaad93e07737fd3e5c1f7c56949b4",
+      "title": "Développeur Full Stack Vue.js / Python – GCP / Data F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179489724W",
+      "posted_at": "2026-09-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086167+00:00"
+    },
+    {
+      "url_hash": "0bd0981dbcf8606934a31164e2595c66f6cdba0d",
+      "title": "Commando-Ingénieur financier Produits structurés / Python F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179490050W",
+      "posted_at": "2026-09-28T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086172+00:00"
+    },
+    {
+      "url_hash": "352e7b6da5a4a1083a7963d135ed06b515c6c49f",
+      "title": "Développeur C++ Python H/F",
+      "company": "Altim",
+      "location": "Boulogne-Billancourt - 92 · CDI · Télétravail occasionnel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83854683.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086192+00:00"
+    },
+    {
+      "url_hash": "b0644110c61d7eaefd480b7162172623c37912be",
+      "title": "Ingénieur Développeur Embarqué C++ - Python - Autopilote Drone H/F",
+      "company": "Consulting Technical Support",
+      "location": "Paris 10e - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83863215.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086204+00:00"
+    },
+    {
+      "url_hash": "4c0ac7ab64682f38f9f39aadee749b3a0543f06c",
+      "title": "Dev Sénior Fullstack React - Next.Js - Java - Python H/F",
+      "company": "W HUB",
+      "location": "Paris 1er - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83839091.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-28T17:46:16.086209+00:00"
     }
   ]
 }
