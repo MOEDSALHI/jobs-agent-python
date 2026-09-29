@@ -1231,6 +1231,83 @@
       "source": "wttj",
       "score": 3.5,
       "created_at": "2026-09-28T19:07:23.030375+00:00"
+    },
+    {
+      "url_hash": "8aadebcee11e1b6cc55f244faa58d83b2b70f917",
+      "title": "Développeur Python - Risk Reporting F/H",
+      "company": "NEXTON",
+      "location": "Paris 02 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179495499W",
+      "posted_at": "2026-09-29T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-29T16:03:06.222133+00:00"
+    },
+    {
+      "url_hash": "3e0b337a9dc1eb15ec866dc93824d4157075e08c",
+      "title": "Développeur Python- Outils d'essais et coordination technique Militair - F/H",
+      "company": "CO-MARTIN",
+      "location": "Le Plessis-Robinson - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179498311W",
+      "posted_at": "2026-09-29T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-29T16:03:06.222147+00:00"
+    },
+    {
+      "url_hash": "b221b1e925272bf11d20d10fb39c733853c68a7a",
+      "title": "Développeur Python / VBA – Commando Front Office Crédit F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179498708W",
+      "posted_at": "2026-09-29T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-29T16:03:06.222154+00:00"
+    },
+    {
+      "url_hash": "3f2399d540fbf523489a3ffba6327e72ebcbed8d",
+      "title": "Développeur IA — Agents conversationnels (Python, Google ADK, LLMOps) F/H",
+      "company": "cadremploi",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179498700W",
+      "posted_at": "2026-09-29T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-29T16:03:06.222161+00:00"
+    },
+    {
+      "url_hash": "78a2e5b7958788a098adb28bb5c88fb0872f1004",
+      "title": "Développeur Python - Risk Reporting H/F",
+      "company": "NEXTON",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/nexton-consulting/jobs/developpeur-python-risk-reporting-h-f_paris",
+      "posted_at": "2026-09-28T22:00:45+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-09-29T16:03:06.222168+00:00"
+    },
+    {
+      "url_hash": "ecbb70343c56c529669fda6725f04bc20bf51560",
+      "title": "Backend Elixir Developer",
+      "company": "Valtech",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/valtech/jobs/backend-elixir-developer_paris",
+      "posted_at": "2026-09-29T00:01:56+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-09-29T16:03:06.222174+00:00"
+    },
+    {
+      "url_hash": "431b408043cb373154e775475d68c3e8c5798755",
+      "title": "Développeur Python - Vu.Js - Secteur de l'Energie H/F",
+      "company": "ALTEN",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82893715.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-29T16:03:06.222187+00:00"
     }
   ]
 }
