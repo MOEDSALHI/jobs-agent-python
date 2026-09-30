@@ -1308,6 +1308,83 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-29T16:03:06.222187+00:00"
+    },
+    {
+      "url_hash": "1f68e5fc1fcf4bbf07047b9c0f49df3d9d0d64ce",
+      "title": "Développeur Fullstack Python F/H",
+      "company": "FINANCIERE CARITAT",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179507134W",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-30T16:02:30.494910+00:00"
+    },
+    {
+      "url_hash": "7430624cef83cb61748e48a9af0c09ef83f08ea4",
+      "title": "Développeur Python/QA F/H",
+      "company": "3DS OUTSCALE",
+      "location": "Saint-Cloud - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179334000W",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-30T16:02:30.494923+00:00"
+    },
+    {
+      "url_hash": "d60ebcf36e865191cc813f8945df494c664a3a8b",
+      "title": "Finaxys recrute un Développeur Python F/H",
+      "company": "FINAXYS",
+      "location": "Puteaux - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179509804W",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-30T16:02:30.494929+00:00"
+    },
+    {
+      "url_hash": "335977e8c8fd9288175da7582bb40f833ed9ac9d",
+      "title": "Développeur Python - Vu.Js - Secteur de l'Energie F/H",
+      "company": "Hellowork",
+      "location": "Paris 01 - 75 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179507118W",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-30T16:02:30.494936+00:00"
+    },
+    {
+      "url_hash": "5d062671732bb14352c43de7ea2d37d8568963b8",
+      "title": "Développeur Python- Outils d'essais et coordination technique Militaire F/H",
+      "company": "cadremploi",
+      "location": "Le Plessis-Robinson - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179506136W",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-30T16:02:30.494942+00:00"
+    },
+    {
+      "url_hash": "ec9e5b9babd5ca77645400079509aa8ff6b017c8",
+      "title": "AI Python Developer F/H",
+      "company": "Proaxian",
+      "location": "Levallois-Perret - 92 · CDI",
+      "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179505717W",
+      "posted_at": "2026-09-30T00:00:00+00:00",
+      "source": "apec",
+      "score": 1.0,
+      "created_at": "2026-09-30T16:02:30.494947+00:00"
+    },
+    {
+      "url_hash": "47611faa0a02dd9640def14ece5ef431126574ef",
+      "title": "Développeur Python & Intelligence Artificielle H/F",
+      "company": "Abil Informatique",
+      "location": "Paris - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83925471.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-09-30T16:02:30.494958+00:00"
     }
   ]
 }
