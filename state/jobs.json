@@ -1385,6 +1385,17 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-09-30T16:02:30.494958+00:00"
+    },
+    {
+      "url_hash": "981dc9e6e576dcd3098549714d4a804af3032c4b",
+      "title": "Senior Fullstack Engineer (Python, FastAPI)",
+      "company": "Ekie",
+      "location": "Paris · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/ekie/jobs/backend-engineer-python-fastapi_paris",
+      "posted_at": "2026-09-28T08:45:13+00:00",
+      "source": "wttj",
+      "score": 3.0,
+      "created_at": "2026-10-01T16:35:30.442384+00:00"
     }
   ]
 }
