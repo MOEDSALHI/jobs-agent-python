@@ -1396,6 +1396,39 @@
       "source": "wttj",
       "score": 3.0,
       "created_at": "2026-10-01T16:35:30.442384+00:00"
+    },
+    {
+      "url_hash": "74a6c845e3453c90797e4ebb24bc26cb4accc52f",
+      "title": "CHEF DE SECTION-DATA SCIENTIST",
+      "company": "Civils de la Défense - Ministère des Armées et des Anciens combattants",
+      "location": "Paris · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/ministere-des-armees-fr/jobs/chef-de-section-data-scientist_paris",
+      "posted_at": "2026-10-02T22:05:33+00:00",
+      "source": "wttj",
+      "score": 0.0,
+      "created_at": "2026-10-03T14:22:16.214395+00:00"
+    },
+    {
+      "url_hash": "0421f83a87dad3e689d90282c574161cc7c86497",
+      "title": "Développeur Fullstack Python-React H/F",
+      "company": "Team.is",
+      "location": "Paris 1er - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84059632.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-10-03T14:22:16.214414+00:00"
+    },
+    {
+      "url_hash": "134b78df95f83ba73d42433f8b11cdaaeae3518c",
+      "title": "Finaxys Recrute un Développeur Python Finance - CDI H/F",
+      "company": "Finaxys",
+      "location": "Paris - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83951090.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-10-03T14:22:16.214429+00:00"
     }
   ]
 }
