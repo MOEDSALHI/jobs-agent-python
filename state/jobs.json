@@ -1440,6 +1440,28 @@
       "source": "wttj",
       "score": 0.0,
       "created_at": "2026-10-04T14:54:21.552755+00:00"
+    },
+    {
+      "url_hash": "94a45356d127aa69abcbeed68029249a0cbe9f1f",
+      "title": "JINTO - AI Engineer / Ingénieur IA",
+      "company": "Kiiro",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/kiiro/jobs/jinto-ai-engineer-ingenieur-ia_paris",
+      "posted_at": "2026-10-05T13:43:27+00:00",
+      "source": "wttj",
+      "score": 1.5,
+      "created_at": "2026-10-05T20:14:47.928369+00:00"
+    },
+    {
+      "url_hash": "139d89873b1efe12797f26068114716b4d016aaa",
+      "title": "Développeur senior Infrastructure As Code et Kubernetes H/F",
+      "company": "Plateforme des Données de Santé / Health Data Hub",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/plateforme-des-donnees-de-sante/jobs/senior-devops-engineer-azure-engineer-h-f-dev-infra-spe_paris",
+      "posted_at": "2026-10-05T12:57:15+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-10-05T20:14:47.928385+00:00"
     }
   ]
 }
