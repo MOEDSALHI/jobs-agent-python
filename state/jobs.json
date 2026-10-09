@@ -1539,6 +1539,28 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-10-08T18:18:06.689719+00:00"
+    },
+    {
+      "url_hash": "650e0f656528ed1d3c6714f9e30995097da677b8",
+      "title": "Développeur Python - Défense & Sécurité - Ile-de-France",
+      "company": "Sopra Steria",
+      "location": "Courbevoie · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/sopra-steria/jobs/developpeur-python-defense-securite-ile-de-france_courbevoie",
+      "posted_at": "2026-10-08T22:07:21+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-10-09T16:24:41.445372+00:00"
+    },
+    {
+      "url_hash": "47d0f58ef7bb7dc84a072465219ef67ee6919e07",
+      "title": "Ingénieur Fullstack Senior ASP.Net Core - Python - React H/F",
+      "company": "Team.is",
+      "location": "Paris 20e - 75 · CDI · Télétravail partiel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84248309.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 2.0,
+      "created_at": "2026-10-09T16:24:41.445396+00:00"
     }
   ]
 }
