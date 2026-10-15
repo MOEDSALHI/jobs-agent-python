@@ -1649,6 +1649,28 @@
       "source": "wttj",
       "score": 1.0,
       "created_at": "2026-10-14T14:35:40.746531+00:00"
+    },
+    {
+      "url_hash": "efcaa13746eab79ff5878a05702289c084f7e516",
+      "title": "Senior Open-Source Python Engineer (ML Developer Tools)",
+      "company": "Hugging Face",
+      "location": "Paris · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/hugging-face/jobs/senior-open-source-python-engineer-ml-developer-tools_paris_tmkcbkrc",
+      "posted_at": "2026-10-15T00:06:16+00:00",
+      "source": "wttj",
+      "score": 2.0,
+      "created_at": "2026-10-15T14:16:41.135088+00:00"
+    },
+    {
+      "url_hash": "b1537725c2eca3063eb1dd4fca6ed7922fa8207b",
+      "title": "Développeur Logiciel Banc de Test en Python H/F",
+      "company": "PROTECTIC",
+      "location": "Bièvres - 91 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84466348.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-10-15T14:16:41.135111+00:00"
     }
   ]
 }
