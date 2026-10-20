@@ -1715,6 +1715,39 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-10-19T16:34:28.612318+00:00"
+    },
+    {
+      "url_hash": "6ea594e156ba2ab443a5e4e4879ccb8331bcca80",
+      "title": "Développeur Python",
+      "company": "Visian",
+      "location": "Courbevoie · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/visian/jobs/3b0f1a0d-d26d-4930-bf4b-db072f7e90d1",
+      "posted_at": "2026-10-20T08:00:22+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-10-20T14:25:15.710102+00:00"
+    },
+    {
+      "url_hash": "94eab3b8ddaefc42c1610b35a9118807985e141e",
+      "title": "Développeur Python H/F",
+      "company": "OCSI Group",
+      "location": "Paris - 75 · CDI · Télétravail occasionnel",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84612215.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-10-20T14:25:15.710112+00:00"
+    },
+    {
+      "url_hash": "5a68e0d22bf70a644a386752011b8ff97c09844b",
+      "title": "Ingénieur Développeur Embarqué C++ - Python - Autopilote Drone H/F",
+      "company": "Consulting Technical Support",
+      "location": "Paris 10e - 75 · CDI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84601508.html",
+      "posted_at": null,
+      "source": "hellowork",
+      "score": 1.0,
+      "created_at": "2026-10-20T14:25:15.710133+00:00"
     }
   ]
 }
