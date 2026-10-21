@@ -1759,6 +1759,50 @@
       "source": "hellowork",
       "score": 1.0,
       "created_at": "2026-10-20T19:49:32.163804+00:00"
+    },
+    {
+      "url_hash": "c6d521b70b96206e1ae2daeb35a1aff37d7fb6df",
+      "title": "Développeur Python - Défense & Sécurité - Ile-de-France",
+      "company": "Sopra Steria",
+      "location": "Courbevoie · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/sopra-steria/jobs/developpeur-python-defense-securite-ile-de-france_courbevoie_SS_wYRPgVo",
+      "posted_at": "2026-10-20T22:05:55+00:00",
+      "source": "wttj",
+      "score": 2.5,
+      "created_at": "2026-10-21T14:33:55.049995+00:00"
+    },
+    {
+      "url_hash": "ff48bb862dcf88e514996f0696bebb5512519df6",
+      "title": "Développeur.se Python Confirmé.e / Senior (H/F)",
+      "company": "LINE",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/line-technologies/jobs/developpeur-python-confirme-senior-h-f-paris",
+      "posted_at": "2026-10-21T08:38:11+00:00",
+      "source": "wttj",
+      "score": 3.5,
+      "created_at": "2026-10-21T14:33:55.050007+00:00"
+    },
+    {
+      "url_hash": "ebad16e92046a54d7181c5f271ac60aa93de9c96",
+      "title": "Développeur Web Full stack Python/Angular H/F - Paris",
+      "company": "EIG",
+      "location": "Courbevoie · CDI",
+      "url": "https://www.welcometothejungle.com/fr/companies/eig/jobs/developpeur-web-full-stack-python-angular-h-f-paris_courbevoie",
+      "posted_at": "2026-10-21T08:23:01+00:00",
+      "source": "wttj",
+      "score": 1.0,
+      "created_at": "2026-10-21T14:33:55.050013+00:00"
+    },
+    {
+      "url_hash": "f8a6080f35c10ffb3b41a8e06ed17dad2e8652fd",
+      "title": "Senior Software Engineer - Python (x/f/m)",
+      "company": "Doctolib",
+      "location": "Paris · CDI · Remote partiel",
+      "url": "https://www.welcometothejungle.com/fr/companies/doctolib/jobs/senior-software-engineer-python-x-f-m_paris",
+      "posted_at": "2026-10-20T22:00:41+00:00",
+      "source": "wttj",
+      "score": 3.5,
+      "created_at": "2026-10-21T14:33:55.050020+00:00"
     }
   ]
 }
